@@ -3,10 +3,10 @@
 var str="";
 // TARGET: LINENUMBER_REPLACE
 // 74:79
-    str = pl_rand_line;
+    str = scrScript(pl_rand_line);
 // TARGET: LINENUMBER_REPLACE
 // 78:83
-    str = e_rand_line;
+    str = scrScript(e_rand_line);
 // TARGET: LINENUMBER
 // 80
 if (str != "")

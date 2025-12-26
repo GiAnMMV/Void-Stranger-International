@@ -4375,7 +4375,7 @@ We wouldn't want that noggin of yours to go completely dull.
 Give all your locusts and I'll tip you off towards another shortcut.
 I'm sure it'll prove useful if you manage to find it.
 
-
+[You decided to trade your locusts for a tip]
 
 Now now, I never said finding those shorcuts would be easy...
 It wouldn't be any fun like that anyway.
@@ -7604,6 +7604,7 @@ Xylitol
 VOIDED
 MELODY & VOCALS
 Eevamari
+
 
 
 

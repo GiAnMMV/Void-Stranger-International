@@ -4312,7 +4312,7 @@ So how about a trade?
 
 
 
-
+So, how about it, stranger?
 
 [You decided to trade your locusts for a hot piece of info]
 Thank you. 
@@ -7604,6 +7604,7 @@ Xylitol
 VOIDED
 MELODY & VOCALS
 Eevamari
+
 
 
 

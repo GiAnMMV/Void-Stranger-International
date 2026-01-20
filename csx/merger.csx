@@ -15,80 +15,6 @@ string PatchesPath = Path.GetFullPath(Path.Combine(runningDirectory, "..", "patc
 Data.GeneralInfo.Info |= UndertaleGeneralInfo.InfoFlags.ShowCursor;
 Data.Options.Info |= UndertaleOptions.OptionsFlags.ShowCursor;
 
-// Apply the patches
-
-string[] files = Directory.GetFiles(PatchesPath);
-
-bool doParse = true;
-UndertaleModLib.Compiler.CodeImportGroup importGroup = new(Data) {
-	AutoCreateAssets = doParse
-};
-foreach (string file in files) {
-	if (Path.GetExtension(file) == ".pat") {
-		string codeEntryName = Path.GetFileNameWithoutExtension(file);
-		string patches = File.ReadAllText(file);
-		applyPatches(codeEntryName, patches);
-	}
-}
-importGroup.Import();
-
-void applyPatches(string codeEntryName, string patches) {
-	UndertaleCode entry = Data.Code.ByName(codeEntryName);
-        if (entry != null) {
-		string targetPattern = @"// TARGET: ([^\n]+)";
-		string[] sections = Regex.Split(patches.Replace("\r\n", "\n"), targetPattern);
-		
-		string code = GetDecompiledText(entry);
-		string finalResult = String.Copy(code);
-		
-		for (int i = 1; i < sections.Length; i += 2) {
-			string[] target = sections[i].Trim('\n').Split('_');
-			string patch = sections[i + 1].Trim('\n');
-			switch (target[0]) {
-				case "LINENUMBER":
-					string[] lines = finalResult.Split('\n');
-					var lines2 = new List<string>(lines);
-					
-					int firstNewline = (patch+"\n").IndexOf("\n");
-					int[] args = Array.ConvertAll(patch.Substring(2, firstNewline - 2).Split(':'), int.Parse);
-					for (int _i = 0; _i < args.Length; _i++)
-						if (args[_i] < 0) args[_i] += lines.Length + 1;
-					int[] ends = [args[0] - 1, 1];
-					if (args.Length > 1) ends[1] = args[1] - args[0];
-					
-					if (target.Length == 1) 
-						lines2.Insert(ends[0], patch.Substring(firstNewline + 1));
-					else if (target[1] == "REPLACE") {
-						lines2[ends[0]] = patch.Substring(firstNewline + 1);
-						lines2.RemoveRange(ends[0] + 1, ends[1] - 1);
-					}
-					else if (target[1] == "REMOVE") {
-						lines2.RemoveRange(ends[0], ends[1]);
-					}
-					
-					finalResult = string.Join("\n", lines2);
-					break;
-				case "REPLACE":
-					finalResult = patch;
-					break;
-				case "STRING":
-					string[] parts = patch.Split('>');
-					finalResult = finalResult.Replace(parts[0], parts[1]);
-					break;
-				default:
-					ScriptMessage("Error!");
-					break;
-			}
-		}
-		importGroup.QueueReplace(entry, finalResult);
-	} else {
-		ScriptMessage(codeEntryName);
-		importGroup.QueueReplace(codeEntryName, patches);
-	}
-        //File.WriteAllText(Path.Combine(runningDirectory, codeEntryName)+".gml", finalResult);
-}
-
-/**********************/
 //FONTS
 
 int lastTextPage = Data.EmbeddedTextures.Count - 1;
@@ -128,8 +54,6 @@ foreach (string file in FontFiles) {
 		Data.Fonts.Add(newFont);
 	}
 }
-
-ScriptMessage("Done! Game patched!");
 
 
 // From ImportFonts.csx
@@ -199,3 +123,78 @@ public void fontUpdate(UndertaleFont newFont)
         }
     }
 }
+
+/**********************/
+
+// Apply the patches
+
+string[] files = Directory.GetFiles(PatchesPath);
+
+bool doParse = true;
+UndertaleModLib.Compiler.CodeImportGroup importGroup = new(Data) {
+	AutoCreateAssets = doParse
+};
+foreach (string file in files) {
+	if (Path.GetExtension(file) == ".pat") {
+		string codeEntryName = Path.GetFileNameWithoutExtension(file);
+		string patches = File.ReadAllText(file);
+		applyPatches(codeEntryName, patches);
+	}
+}
+importGroup.Import();
+
+void applyPatches(string codeEntryName, string patches) {
+	UndertaleCode entry = Data.Code.ByName(codeEntryName);
+        if (entry != null) {
+		string targetPattern = @"// TARGET: ([^\n]+)";
+		string[] sections = Regex.Split(patches.Replace("\r\n", "\n"), targetPattern);
+		
+		string code = GetDecompiledText(entry);
+		string finalResult = String.Copy(code);
+		
+		for (int i = 1; i < sections.Length; i += 2) {
+			string[] target = sections[i].Trim('\n').Split('_');
+			string patch = sections[i + 1].Trim('\n');
+			switch (target[0]) {
+				case "LINENUMBER":
+					string[] lines = finalResult.Split('\n');
+					var lines2 = new List<string>(lines);
+					
+					int firstNewline = (patch+"\n").IndexOf("\n");
+					int[] args = Array.ConvertAll(patch.Substring(2, firstNewline - 2).Split(':'), int.Parse);
+					for (int _i = 0; _i < args.Length; _i++)
+						if (args[_i] < 0) args[_i] += lines.Length + 1;
+					int[] ends = [args[0] - 1, 1];
+					if (args.Length > 1) ends[1] = args[1] - args[0];
+					
+					if (target.Length == 1) 
+						lines2.Insert(ends[0], patch.Substring(firstNewline + 1));
+					else if (target[1] == "REPLACE") {
+						lines2[ends[0]] = patch.Substring(firstNewline + 1);
+						lines2.RemoveRange(ends[0] + 1, ends[1] - 1);
+					}
+					else if (target[1] == "REMOVE") {
+						lines2.RemoveRange(ends[0], ends[1]);
+					}
+					
+					finalResult = string.Join("\n", lines2);
+					break;
+				case "REPLACE":
+					finalResult = patch;
+					break;
+				case "STRING":
+					string[] parts = patch.Split('>');
+					finalResult = finalResult.Replace(parts[0], parts[1]);
+					break;
+				default:
+					ScriptMessage("Error!");
+					break;
+			}
+		}
+		importGroup.QueueReplace(entry, finalResult);
+	} else {
+		importGroup.QueueReplace(codeEntryName, patches);
+	}
+}
+
+ScriptMessage("Done! Game patched!");

@@ -1,6 +1,7 @@
 __Traductions actuellement incluses&nbsp;:__
-* Italien par GiAnMMV
 * Français par Oskilla
+* Espagnol par AnaximanDraws
+* Italien par GiAnMMV
 
 ## Installation du patch
 

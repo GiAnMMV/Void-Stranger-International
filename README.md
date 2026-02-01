@@ -1,9 +1,10 @@
-[![it](https://img.shields.io/badge/italiano-green.svg)](./README.it.md)
 [![fr](https://img.shields.io/badge/français-green.svg)](./README.fr.md)
+[![it](https://img.shields.io/badge/italiano-green.svg)](./README.it.md)
 
 __Currently included translations:__
-* Italian by GiAnMMV
+* Spanish by AnaximanDraws
 * French by Oskilla
+* Italian by GiAnMMV
 
 ## Setting things up
 

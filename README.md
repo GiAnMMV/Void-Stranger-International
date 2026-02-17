@@ -22,7 +22,7 @@ To create a new translation into another language, get the files in [this folde
 
 Now create a new folder in `[game_directory]\Languages`, name it the [language code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) of your language (uppercase) and drop there your translated files. If you did the previous steps correctly, you should be able to select the new language after opening the game.
 
-To add your name in the credits, write it in the second-last line of `extracted.txt`; multiple names need to be separated by a `|` and only a maximum of 4 names is possible.
+To add your name in the credits, write it in line 348 of `extracted.txt`; multiple names need to be separated by a `|` and only a maximum of 4 names is possible.
 
 ## Publishing the translation
 

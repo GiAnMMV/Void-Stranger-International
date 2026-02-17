@@ -347,3 +347,8 @@ Why would you return here...?
 ENGLISH/FINNISH
 Lotta Leppälä|Muste Creative
 TRANSLATION TOOL
+G: 
+P: 
+B: 
+A: 
+L: 

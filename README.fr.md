@@ -19,7 +19,7 @@ Pour créer une nouvelle traductino, récupéré les fichier dans [ce dossier](
 
 Créer un nouveau fichier `[game_directory]\Languages`, en le nommant suivant le [code langage](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) de votre langue (en majuscule) et deposez-y vos fichier traduits. Si vous avez correctement suivi les instruction précédentes, vous aurrez accès a votre langage dans les options.
 
-Pour ajouter votre nom au crédits, écrivez le dans l'avant dernière ligne du fichier `extracted.txt`&nbsp;; plusieurs noms sont séparer par le symbole `|` et seul 4 noms sont possibles.
+Pour ajouter votre nom au crédits, écrivez le dans la ligne 348 du fichier `extracted.txt`&nbsp;; plusieurs noms sont séparer par le symbole `|` et seul 4 noms sont possibles.
 
 ## Publication de la traduction
 

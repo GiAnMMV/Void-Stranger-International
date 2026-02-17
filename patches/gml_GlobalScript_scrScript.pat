@@ -5,7 +5,7 @@
     {
         _lang = argument[1];
     }
-    var _res;
+    var _res = "";
     if (argument[0] >= 1 && argument[0] <= array_length(global.script_array[_lang][1]))
     {
         _res = global.script_array[_lang][1][argument[0] - 1];
@@ -16,6 +16,6 @@
     }
     if (_res == "")
     {
-        _res = string("{{0}}", argument[0]);
+        return string("{{0}}", argument[0]);
     }
     return _res;

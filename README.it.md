@@ -19,7 +19,7 @@ Per creare una nuova traduzione in un'altra lingua, scaricare i file presenti in
 
 Ora andare nella cartella `Languages`, creare una sotto-cartella e rinominarla usando il [codice](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) della lingua scelta (tutto maiuscolo) e rilasciare lì i file tradotti. Se i precedenti passi sono stati eseguiti correttamente, aprendo il gioco dovrebbe già essere possibile selezionare la nuova lingua.
 
-Per aggiungere il proprio nome nei titoli di coda scriverli nella penultima riga di `extracted.txt`; per aggiungere più nomi separarli con una barra verticale `|`, tenendo a mente che quelli dopo il quarto saranno ignorati.
+Per aggiungere il proprio nome nei titoli di coda scriverli alla riga 348 di `extracted.txt`; per aggiungere più nomi separarli con una barra verticale `|`, tenendo a mente che quelli dopo il quarto saranno ignorati.
 
 ## Pubblicare la traduzione
 

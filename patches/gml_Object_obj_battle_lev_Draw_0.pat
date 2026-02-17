@@ -3,18 +3,14 @@
 var str="";
 // TARGET: LINENUMBER_REPLACE
 // 56:61
-    str = "A: " + scrScript(pl_rand_line);
+    str = scrScript(-353) + scrScript(pl_rand_line);
 // TARGET: LINENUMBER_REPLACE
 // 60:65
-    str = "L: " + scrScript(e_rand_line);
+    str = scrScript(-354) + scrScript(e_rand_line);
 // TARGET: LINENUMBER
 // 62
 if (str != "")
 {
-    if (global.script_array[global.language][0] == "FR")
-    {
-        str = string_insert("\u00A0", str, 2);
-    }
     draw_set_halign(fa_center);
     draw_set_valign(fa_top);
     if (string_height_ext(str, string_height(global.text_font), 220) == string_height(global.text_font))

@@ -134,7 +134,7 @@ Même si mon intérêt pour votre espèce ne cesse de décliner.
 Je ne peux m'empêcher de me demander.
 Qu'est-ce qui vous a poussé à agir ainsi.
 Vos pensées dispersées rejoindront bientôt les autres.
-Dans ce vide infini creusé par le désespoir
+Dans ce vide infini creusé par le désespoir.
 Nous sommes allés trop loin.
 Vous ne pouvez pas abandonner maintenant.
 
@@ -1966,7 +1966,7 @@ B : Bande de lâches !
 B : Couvrez-moi, bande d'imbéciles !
 [Vous brandissez votre épée vers l'ennemi]
 B : Prends ça, vieille sorcière !
-[Gray le Destructeur bondit sur vous]
+[Gray la Destructrice bondit sur vous]
 G : Eins.
 G : Zwei.
 G : Drei.
@@ -3134,7 +3134,7 @@ Nous ne voudrions pas gâcher l'ambiance du mariage ou de la cérémonie de cour
 ...Espèce de vermine...
 Allons, allons.
 Ne sois pas si précipité.
-Mes hommes connaissent bien ta réputation, Gray le Destructeur...
+Mes hommes connaissent bien ta réputation, Gray la Destructrice...
 Je ne pense pas que même toi, tu serais assez effronté pour croire que tu pourrais les affronter tous.
 Je m'en fiche complètement...
 Tant que ta tête roule avec la mienne !
@@ -3146,7 +3146,7 @@ Je ferai ce que tu veux.
 Mais ne fais pas de mal à Gray.
 Eh bien...
 Pour une fois, la princesse est la voix de la raison. Quelle agréable surprise.
-Que dites-vous, Gray le Destructeur ?
+Que dites-vous, Gray la Destructrice ?
 Rendez-vous sans résistance et je veillerai à honorer le souhait de Son Altesse.
 ...
 Lily.
@@ -4375,7 +4375,7 @@ Nous ne voudrions pas que votre esprit s’engourdisse complètement.
 Donnez-moi tous vos criquets, et je vous indiquerai un autre raccourci.
 Je suis sûr qu’il vous sera utile si vous parvenez à le découvrir.
 
-
+[Vous avez décidé d’échanger vos criquets contre un conseil]
 
 Allons, allons, je n’ai jamais dit que trouver ces raccourcis serait facile...
 Ce ne serait de toute façon pas amusant comme ça.
@@ -5998,7 +5998,7 @@ Tu continues à les surveiller ?
 Ton mauvais déguisement a peut-être trompé DIS...
 Mais je sais que tu les surveilles depuis longtemps.
 Ou est-ce que cette enfant s'est retrouvée ici par pur hasard, pour finalement rencontrer sa mère ?...
-
+...
 C'est ce qu'Add aurait voulu.
 Je lui devais bien ça.
 De toute façon, je ne lui ai donné qu'un petit coup de pouce. 

@@ -6249,7 +6249,7 @@ Buona fortuna con la tua ricerca, Cif.
 BATTAGLIA CON BEE
 Bene, bene, bene...
 Adesso ti sei davvero superata, mortale.
-Non so e non mi interessa come tua sia riuscita ad arrivare qui, ma ho degli ordini.
+Non so e non mi interessa come tu sia riuscita ad arrivare qui, ma ho degli ordini.
 Niente di personale.
 Quindi che ne dici di una rivincita?
 ADDIO, GRACILE MORTALE!
@@ -7604,6 +7604,7 @@ Xylitol
 VOIDED
 MELODIA E VOCE
 Eevamari
+
 
 
 

@@ -1,5 +1,5 @@
 # Void Stranger International
-<img style="image-rendering: pixelated;" width="390" align="right" src="VSInternationalIcon.png">
+<img align="right" src="VSInternationalIcon.png">
 
 [![fr](https://img.shields.io/badge/français-green.svg)](./README.fr.md)
 [![it](https://img.shields.io/badge/italiano-green.svg)](./README.it.md)

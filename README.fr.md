@@ -1,3 +1,6 @@
+# Void Stranger International
+<img style="image-rendering: pixelated;" width="390" align="right" src="VSInternationalIcon.png">
+
 __Traductions actuellement incluses&nbsp;:__
 * Français par Oskilla
 * Espagnol par AnaximanDraws

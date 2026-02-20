@@ -41,7 +41,7 @@ PULSA ACCIÓN PARA CONFIRMAR
 ¿Estás listo?
 ¡Buena suerte!
 ¿Quieres saltarte el prólogo?
-No te rindas!
+¡No te rindas!
 PULSA CUALQUIER BOTÓN PARA CONTINUAR
 HAS CAÍDO
 SIN MANDO DETECTADO
@@ -121,7 +121,7 @@ Entonces serás capaz de merodear estos pasillos todo lo que quieras.
 Da la casualidad que traigo esta fruta conmigo.
 ¿Quisieras comerla?
 
-Genial!.
+¡Genial!
 Estoy tan feliz de haberte podido ayudar.
 Hace falta que encuentres lo que estás buscando.
 Dejaré que sigas en ello.
@@ -163,7 +163,7 @@ ESCENA BASTÓN VACÍO
 
 [EL cetro de Add...]
 [...]
-[Es hora de encontrar a Bee!]
+[¡Es hora de encontrar a Bee!]
 
 [Algo ha cambiado]
 ABRIENDO COFRES
@@ -181,7 +181,7 @@ ABRIENDO COFRES
 Guardé bocadillos de tus favoritos adentro.
 Come un poco cuando te sientas mal.
 Pero no le digas a mi hermana.
-Será nuestro pequeño secretito! -Bee
+¡Será nuestro pequeño secretito! -Bee
 [Este mensaje no tiene sentido para ti]
 
 [Está escrito en un lenguaje que puedes leer]
@@ -206,9 +206,9 @@ En caso que hayas olvidado cómo usarlas:
 
 
 Puedes volar sobre pequeños agujeros con estas.
-Sólo salta y cree en ti misma!
+¡Sólo salta y cree en ti misma!
 Si solo tuviera alas para mí.
-Por favor dame alas! -Bee
+¡Por favor dame alas! -Bee
 
 Mi memoria de ti.
 Con esto deberías ser capaz de escuchar la voz de los caídos, todos aquellos que fueron y serán.
@@ -219,7 +219,7 @@ Jódete. -Bee
 [Quién sabe, a lo mejor sean útiles más adelante]
 
 [Has adquirido tres ídolos de langosta]
-[¡S U E R T E !]
+[¡ S U E R T E !]
 
 [Qué mal que no puedas llevar más...]
 [Cuando intentas ponerlas de vuelta, se deshacen en polvo fino]
@@ -260,7 +260,7 @@ Jódete. -Bee
 [¿Es algún tipo de escritura...?]
 
 [Has adquirido 99 Ídolos Langosta]
-[I N C R E Í B L E !]
+[¡ I N C R E Í B L E !]
 
 [Algo anda mal]
 
@@ -503,7 +503,7 @@ ZERO Juez.
 
 ZERO Acusador.
 
-ZERO Defensa!
+¡ZERO Defensa!
 
 La Corte del Vacío, ZERO JUSTICE, entra en sesión.
 
@@ -516,7 +516,7 @@ Todavía tenemos que investigar cómo el acusado ha sido capaz de lograr tal haz
 Aún así, resulta obvio que fue intencional.
 Proponemos que el acusado deba ser castigado acordemente.
 
-Un momento! Defensa entra en acción!
+¡Un momento! ¡Defensa entra en acción!
 ¿Tienes algo de, ya sabes, evidencia?
 Burlar la muerte me parece algo bastante difícil sabes.
 ¿Algo así es siquiera posible?
@@ -697,7 +697,7 @@ Cómete un grillo y ahógate.
 
 
 ENCUENTRO CON LA MONJA
-Por favor no me mates!
+¡Por favor no me mates!
 ...
 No eres una de esas cosas ¿o sí?
 Ufff.
@@ -751,7 +751,7 @@ Ah, y si logras encontrar una salida, dímelo, gracias.
 ¿Por qué hiciste eso?
 [Se volvió cuidadosa contigo]
 
-Para!
+¡Para!
 [Ella parece asustada]
 
 [No quiere hablar más contigo]
@@ -939,7 +939,7 @@ No llores.
 Mamá está aquí.
 Todo estará...
 Por favor, para...
-Detente!
+¡Detente!
 5470041062466101, 5470041062466102, 5470041062466103, 5470041062466104... 
 ¿Por qué no puedo dormir?
 Haz que termine.
@@ -954,7 +954,7 @@ Nunca creí en nada...
 ¿Puedo rezar?
 ¿A quién le rezo?
 Solo quiero que termine.
-Ayuda!
+¡Ayuda!
 Mi nombre...
 No puedo recordar mi nombre.
 Quiero ver tu cara otra vez...
@@ -1297,12 +1297,12 @@ Mueve las escaleras...
 
 
 SUEÑO I
-Lady Gray!
-Gracias al cielo has llegado!
-La princesa... se ha salido de control!
-Por favor, has algo!
-Eres nuestra única esperanza!
-Por favor, de prisa!
+¡Lady Gray!
+¡Gracias al cielo has llegado!
+La princesa... ¡se ha salido de control!
+¡Por favor, has algo!
+¡Eres nuestra única esperanza!
+¡Por favor, de prisa!
 
 Qué dolor...
 Encárgate de la princesa, Lady Gray...
@@ -1317,61 +1317,61 @@ Lo único que pude hacer fue huir.
 Prepárate a morir.
 
 [Le das un golpe a la princesa]
-[Fortaleces tu voluntad!]
+[¡Fortaleces tu voluntad!]
 [Uno de los muchos berrinches de la princesa]
 [Has caído]
 [La Ira de la Princesa ce cierne sobre tí]
 [La Ira de la Princesa te desprecia]
-[La Ira de la Princesa se desata!]
+[¡La Ira de la Princesa se desata!]
 [La Ira de la Princesa finalmente se ha calmado]
-[La Ira de la Princesa se está preparando para atacar con todo!]
-[La Ira de la Princesa se está volviendo loca!]
-[La Ira de la Princesa está cansada... ahora ess tu oportunidad!]
+[¡La Ira de la Princesa se está preparando para atacar con todo!]
+[¡La Ira de la Princesa se está volviendo loca!]
+[La Ira de la Princesa está cansada... ¡ahora es tu oportunidad!]
 [La Ira de la Princesa está demasiado aburrida para continuar...]
 ATACAR 
 DEFENDER
 INSPECCIONAR
 
-Princesa Patatera!
-Niña malcriada!
-Enana insufrible!
-Dolor de nalgas de rey!
-Burra vieja!
-Desgracia con patas!
-Bandolera Zarrapastrosa!
-Reinita Rancia!
-Ni un dragón te tocaría!
-Berraca Lamecharcos!
-Espabila Cabezaalberca!
-Báñate!
-Reguero Real!
-Princesa Parteyeguas!
-Espina en la Espinilla!
-Sabandija Pija!
-Rastropajo Real!
-Condenada Criaforros!
-Chiva Cochina!
-Sanguijuela tragaperlas!
+¡Princesa Patatera!
+¡Niña malcriada!
+¡Enana insufrible!
+¡Dolor de nalgas de rey!
+¡Burra vieja!
+¡Desgracia con patas!
+¡Bandolera Zarrapastrosa!
+¡Reinita Rancia!
+¡Ni un dragón te tocaría!
+¡Berraca Lamecharcos!
+¡Espabila Cabezaalberca!
+¡Báñate!
+¡Reguero Real!
+¡Princesa Parteyeguas!
+¡Espina en la Espinilla!
+¡Sabandija Pija!
+¡Rastropajo Real!
+¡Condenada Criaforros!
+¡Chiva Cochina!
+¡Sanguijuela tragaperlas!
 
 Te voy a patear.
-Patada voladora!
-Te lo has ganado, harpía!
-Aléjate bruja!
+¡Patada voladora!
+¡Te lo has ganado, harpía!
+¡Aléjate bruja!
 Tírate en un pozo.
-Toma todo mi odio!
-Doble llave!
-Te voy a rostizar!
-Ve a reír a otro lado!
-Mrgrgr!
+¡Toma todo mi odio!
+¡Doble llave!
+¡Te voy a rostizar!
+¡Ve a reír a otro lado!
+¡Mrgrgr!
 Prepárate para tu perdición.
-Deja de hablar!
-Te voy a colgar por esto!
-TE voy a colgar! Te voy a colgar!
-Muerte en la hoguera!
-Cerda!
-No es justo!
-Bicho Pecho!
-Muérete ya!
+¡Deja de hablar!
+¡Te voy a colgar por esto!
+¡Te voy a colgar! ¡Te voy a colgar!
+¡Muerte en la hoguera!
+¡Cerda!
+¡No es justo!
+¡Bicho Pecho!
+¡Muérete ya!
 
 ¿Cómo pude haber perdido?
 ¡Entrené tanto!
@@ -1384,9 +1384,9 @@ Qué agraciado de usted, su Majestad.
 Muérdeme.
 ...
 
-Sí!
-He ganado!
-Arrodíllate ante mí, mi desafortunada súbdita!
+¡Sí!
+¡He ganado!
+¡Arrodíllate ante mí, mi desafortunada súbdita!
 ...
 Ya te puedes levantar.
 Vaya, debo de haberme contenido con usted, Su Majestad.
@@ -1403,9 +1403,9 @@ Ugh, estos idiotas torpes no son divertidos.
 Les das unos cuantos golpes y empiezan a gritar por sus vidas.
 Y ese cuatro-ojos sabelotodo no es mucho mejor.
 ´´Um, princesa, no deberías andar pateando a los pobres guardias.´´
-´´Es hora de bañarse princesa!´´
-´´Y recuerda cambiarte tu ropa interior diariamente!´´
-´´Lady Gray se pondrá furiosa conmigo si no obedeces!´´
+´´¡Es hora de bañarse princesa!´´
+´´¡Y recuerda cambiarte tu ropa interior diariamente!´´
+´´¡Lady Gray se pondrá furiosa conmigo si no obedeces!´´
 Incluso se atrevió a insinuar que apesto.
 Las Princesas no apestan.
 Ese pobre bribón debería estar agradecido de poder estar en mi ambiente real.
@@ -1418,7 +1418,7 @@ No podrás seguir con estos juegos infantiles para siempre.
 Este país espera grandes cosas de ti, especialmente su padre.
 No me interesa.
 ¡Qué te parece si nos salimos del barco y nos vamos!
-Solo tu y yo!
+¡Solo tu y yo!
 ¡Así podemos hacer lo que quieras, irnos donde queramos!
 Aquí vamos de nuevo...
 ¡Hablo en serio!
@@ -1437,10 +1437,10 @@ No, Realmente no.
 Ven aquí, pequeña diablilla.
 Vamos a intentar arreglar ese pelo tuyo.
 ... Está bien.
-Pero después de esto, tendré la revancha!
+¡Pero después de esto, tendré la revancha!
 Veremos cómo sale eso.
 Pero te deberías bañar eh.
-Cierra la boca!
+¡Cierra la boca!
 
 ... Patético.
 Peleas como una vaca.
@@ -1497,7 +1497,7 @@ Buen tiempo, extraño...
 Arrójame en ese pozo brillante ...
 Debo encontrarlo...
 SUEÑO II
-Esto es absurdo!
+¡Esto es absurdo!
 Por favor, su Majestad, imploro que se calme.
 ¿Calmarme?
 Esa miserable hija mía está llevando este reino hacia la ruina...
@@ -1510,8 +1510,8 @@ Rumores se han estado comenzando a esparcir.
 Cómo será que un rey que no puede siquiera poner en orden a su hija, lo haga con a su menguante reino....
 ¡¿Y has escuchado el apodo que le pusieron?!
 Estoy al tanto de los rumores, Su Majestad.
-Entonces encuéntrala y hazla entrar en razón, ahora mismo!
-Dile que se quedará encerrada tras estas paredes hasta que obedezca!
+¡Entonces encuéntrala y hazla entrar en razón, ahora mismo!
+¡Dile que se quedará encerrada tras estas paredes hasta que obedezca!
 Su Majestad, yo...
 Necesito recordarle su lugar ¿Lady Gray?
 
@@ -1703,14 +1703,14 @@ Pero ejercer un comportamiento tan vulgar en el dominio de Lord Add...
 La insolencia de los mortales no conoce límites.
 Proponemos que el acusado sea castigado acordemente.
 
-Espera un minuto!
+¡Espera un minuto!
 Verás eso fue solo un...
 Ehmm...
 Bueno aunque se pueda ver muy mal al principio, en realidad...
 Pasó que...
 ...
 Si eh, ni voy a intentar discutirte esta.
-Trrrrráncalo, hermana!
+¡Trrrrráncalo, hermana!
 
 veces, para ser exacta.
 
@@ -1730,7 +1730,7 @@ Ay no ay no ay no...
 ¡Me encontré con una serpiente gigante hace un momento!
 ¡Y ni hablar de todas las cosas pequeñas que hay por ahí!
 Y mi vestido...
-Se arruinó!
+¡Se arruinó!
 
 [Le señalas que un vestido tan extravagante solo le va a molestar]
 ¡De ninguna manera lo voy a dejar atrás!
@@ -1741,9 +1741,9 @@ Urgh, Esto es una pesadilla...
 
 Mira, si no me puedes decir alguna manera de salir de este aprieto...
 Hazme el favor de dejarme sola, harapienta.
-No necesito tu ayuda!
-Piérdete!
-Y cómprate ropa nueva ya que estás!
+¡No necesito tu ayuda!
+¡Piérdete!
+¡Y cómprate ropa nueva ya que estás!
 
 [Ha roto en llanto]
 [Sería mejor dejarla sola por un momento]
@@ -1821,7 +1821,7 @@ Así que puedes oírme...
 No todo el mundo por aquí es digno de ser escuchado...
 Nosotros los solitarios tenemos bastante conocimiento sin embargo...
 
-GHHHOOOOOOORRR!
+¡GHHHOOOOOOORRR!
 
 Oh, ya lo resolviste...
 ...
@@ -1868,13 +1868,13 @@ Pero golpearlo con ese cuchillito mayonesero tuyo puede resultar ser más difíc
 
 Hazme saber si esa pista funcionó...
 Eso es si logras sobrevivir a tu encuentro con Cif...
-Buena suerte!
-Ksi shi shi shi shi!
+¡Buena suerte!
+¡Ksi shi shi shi shi!
 
-BLASÓN ESPECIAL DESBLOQUEADO!
+¡BLASÓN ESPECIAL DESBLOQUEADO!
 CÓMO USAR:
 Dibuja el blasón especial que quieras usar DOS VECES antes que el tuyo para activarlos.
-Úsalos sabiamente!
+¡Úsalos sabiamente!
 
 [Diriges la mirada a la extraña luz]
 [Puedes vagamente vislumbrar dos figuras en la blanquedad]
@@ -1903,7 +1903,7 @@ No intentes engañarme.
 Sé que no estás durmiendo.
 
 Quizá podría descansar si no fueras tan impaciente, Su Alteza.
-Vamos, me estoy congelando aquí!
+¡Vamos, me estoy congelando aquí!
 ¿Qué clase de tarado vive en un país como este?
 Este país no es tan diferente del suyo, Su Alteza.
 De hecho, hace algunos años estaba en un estado aún más penoso.
@@ -1936,16 +1936,16 @@ Por favor manténgase adentro, Su Alteza.
 
 No te preocupes por ellos.
 Ya nos hemos encargado.
-...!
+¡...!
 No dieron mucha pelea sin embargo.
 Pero haré las cosas más fáciles para tí...
-Danos a la de la corona!
+¡Danos a la de la corona!
 (¿Cómo un grupo de bandidos tan rácanos sabe de la princesa...?)
 ¿Y si me niego?
 No es que tengas muchas opciones en este asunto, muchachona.
 No creas que esa cara bonita tuya te salvará.
 ... O quizá esta señorita fina sepa manejar una espada.
-Cómo si eso fuera posible Ja Ja Ja!
+Cómo si eso fuera posible ¡Ja Ja Ja!
 
 ...
 Parece que incluso la basura como tú es conciente que ninguna dama de la corte llevaría un arma.
@@ -1962,10 +1962,10 @@ Te podría dejar vivir.
 G: Te daré tres turnos.
 
 [Llamas a tus secuaces]
-B: Malditos cobardes!
-B: Cúbranme bastardos!
+B: ¡Malditos cobardes!
+B: ¡Cúbranme bastardos!
 [Agitas tu espada hacia el enemigo]
-B: T-toma eso bruja!
+B: ¡T-toma eso bruja!
 [Gray la Destructora salta hacia ti]
 G: Eins.
 G: Zwei.
@@ -1984,15 +1984,15 @@ Lo siento, podré ser solo una pequeña hoja de té...
 Pero tengo mi orgullo. 
 Cómo quieras entonces.
 
-Si Gray!
-Enséñales cómo se hace!
-Vuelva adentro, Su Alteza!
+¡Si Gray!
+¡Enséñales cómo se hace!
+¡Vuelva adentro, Su Alteza!
 ¿Y perderme el golpe final?
 ¡De ninguna manera!
 Bien bien bien.
 Mi suerte finalmente ha cambiado...
-Atrápenla muchachos!
-Lily!
+¡Atrápenla muchachos!
+¡Lily!
 
 Heh.
 Parece que este pobre ladrón fue seriamente superado.
@@ -2098,7 +2098,7 @@ Sin comida...
 
 SUEÑO IV
 Acabar con esos matones de un solo golpe...
-Eso fue tan asombroso!
+¡Eso fue tan asombroso!
 Y entonces le dió esa mirada antes de freír su pobre trasero...
 ¿Es realmente un rey?
 ¡Es demasiado genial para eso!
@@ -2160,7 +2160,7 @@ Admiro tu devoción hacia Su Alteza.
 Aún así, no puedo hacer otra cosa que preguntarme...
 Cuando estabas peleando contra esos matones...
 Tú, en algún momento ¿lo disfrutaste?
-...!
+¡...!
 Una luchadora de tu capacidad pudo haberse despachado a esa penosa banda de ladrones en un instante.
 Eso es insensible de mi parte...
 No le prestes atención a mis frívolas derivaciones.
@@ -2213,7 +2213,7 @@ No te preocupes, soy una experta manejando este tipo de cosas.
 
 Maldición ¿por qué no funciona esta cosa?
 ... Oh, tú de nuevo.
-Por favor perdóname!
+¡Por favor perdóname!
 Sé que no debí haber hecho eso pero no tuve opción.
 Mi viejo está muy enfermo y la medicina que necesita cuesta una pequeña fortuna si...
 ¿No puedes encontrar un poco de perdón para mí en tu corazón?
@@ -2266,7 +2266,7 @@ Pudo haber sido bastante útil para saque-
 De todos modos, puedes continuar.
 Ya que no pareces tener habilidad para la búsqueda de tesoros...
 Creo que te puedo dar un poco de ventaja.
-Te veo luego!
+¡Te veo luego!
 
 
 
@@ -2311,7 +2311,7 @@ Es un poco raro verte así, eso es todo.
 ¿Es por Lord Johann?
 ... Sólo quiero estar presentable cuando llegue.
 Sin embargo, no sabemos cuándo puede visitarnos siquiera, Su Alteza.
-Por eso mismo necesito estar lista!
+¡Por eso mismo necesito estar lista!
 Podría tomar incluso semanas.
 Ugh...
 ¿No recibió otra carta suya hace poco, Su Alteza?
@@ -2328,12 +2328,12 @@ Quizás.
 Pero nos estamos acercando a terrenos inexplorados, y es mejor prevenir que lamentar.
 ¿Qué se supone que signifique eso...?
 El Amor, Su Alteza.
-C-Cállate bruja!
+¡C-Cállate bruja!
 
-Su Alteza!
-Es Lord Johann!
-Ha llegado sin anunciarse!
-Está esperando por usted debajo!
+¡Su Alteza!
+¡Es Lord Johann!
+¡Ha llegado sin anunciarse!
+¡Está esperando por usted debajo!
 
 [Es una carta inconclusa]
 [¿Probablemente no deberías leerla...?]
@@ -2364,7 +2364,7 @@ Estoy tan feliz de ver a Su Alteza con tantas energías.
 El Caballero Celestial ha llegado.
 Me pregunto si es tan apuesto como dicen.
 Quizás tendré una oportunidad para verle hoy...
-... Cuando termine mis deberes por supuesto!
+¡... Cuando termine mis deberes por supuesto!
 Por favor, úneteles allá abajo, Lady Gray.
 
 Ah, Lady Gray, encantado de verte.
@@ -2379,7 +2379,7 @@ Parece que a alguien no le importa en lo absoluto.
 ¡Lady Gray!
 Su Majestad y Lord Johann parecen estar en medio de algo...
 Así que he decidido no interrumpir.
-Pero seguro que tu estarás bien!
+¡Pero seguro que tu estarás bien!
 ¿De qué están hablando?
 ¡Podría ser...!
 
@@ -2414,7 +2414,7 @@ No sabrías tú de eso ya.
 Si nuestra Defensa no tiene nada de interés que compartir...
 Vamos a llegar al veredicto de una vez.
 
-Oye, estate quieta un momento!
+¡Oye, estate quieta un momento!
 Como dicen, el camino al infierno está pavimentado con buenas intenciones.
 
 ...
@@ -2425,7 +2425,7 @@ No creo que sepas lo que significa ese dicho.
 ¿Entiendes?
 ¿O acaso esos cuernos gordos te chuparon todo el sentido del humor que te quedaba?
 ... Ups, mala mía.
-No tenías ninguno para empezar!
+¡No tenías ninguno para empezar!
 
 ... Por qué siempre tiene que ser con mis cuernos. 
 
@@ -2554,7 +2554,7 @@ Estoy segura que cumplirá su propósito, Su Alteza.
 ¡De ninguna manera!
 No quiero a Johann mirando mientras nosotras, ya sabes...
 Si hubiera sido tan entusiasta cuando era más joven, no estaríamos en tal apuro..
-Bueno, es ahora o nunca!
+¡Bueno, es ahora o nunca!
 ¡Así que deja de parlotear y continúa!
 Por supuesto, Su Alteza.
 ¡Y será mejor que mantengas tu promesa!
@@ -2568,15 +2568,15 @@ Ahora pon tu mano izquierda en mi hombro, más o menos así...
 Ahora, solo sígueme el ritmo e intenta relajarte.
 Está bien...
 Estarás bien, Su Alteza.
-Comencemos!
+¡Comencemos!
 
-Pero mira eso!
-No pensé que sería tan divertido!
+¡Pero mira eso!
+¡No pensé que sería tan divertido!
 
 Nada mal, Su Alteza.
 Para ser su primera vez, claro está...
 
-Su Alteza lo tiene en la sangre!
+¡Su Alteza lo tiene en la sangre!
 
 Por ahí lo tienes, Su Alteza...
 (Ya siento pena por los pobres pies de Lord Johann...)
@@ -2748,7 +2748,7 @@ Así entonces podré tener mi descanso...
 
 [Le dices que no tienes idea de cómo usar el encantamiento]
 
-¿EEEEEEEEEEEEEEEEEEEEE?!
+¡¿EEEEEEEEEEEEEEEEEEEEE?!
 
 ¡¿A qué te refieres con que no tienes idea?!
 Tu puedes usar el Cetro del Vacío ¿no?
@@ -2790,7 +2790,7 @@ Toma esto.
 Y por última vez...
 Vete.
 
-Espera un momento...!
+¡Espera un momento...!
 Esa espada que traes...
 ¿Podría ser...?
 Si, no hay error.
@@ -2862,7 +2862,7 @@ SERÍAS CARNE MUERTA YA.
 Puedes considerarte alguien con suerte por ahora.
 Pero quién sabe... 
 Al final de todo puede ser que desees la muerte de todas formas.
-Nos vemos!
+¡Nos vemos!
 
 
 
@@ -2917,7 +2917,7 @@ Espero que no estés intentando inventar algo gracioso, bromista.
 Está hermoso, Su Majestad.
 No esperaba nada menos.
 Pero...
-Pero qué!
+¡Pero qué!
 Creo que le falta algo.
 
 ... ... ...
@@ -2954,7 +2954,7 @@ Has llegado tan lejos ya.
 Su Alteza nunca será la más sabia.
 Después de todo, ella no es más que una mocosa ingenua y malcriada...
 
-...!
+¡...!
 Puede que ella sea una sabandija insufrible e infantil...
 Pero hice una promesa para protegerla.
 Eso es todo lo que me importa.
@@ -2964,9 +2964,9 @@ Pero no te hagas la idea equivocada.
 Ya es demasiado tarde para echarse atrás.
 En ese caso le diré todo a Lily.
 No lo harías...
-Seguro entiendes qué pasaría si lo haces...!
-Pues que pase!
-Lily no se merece esto!
+¡Seguro entiendes qué pasaría si lo haces...!
+¡Pues que pase!
+¡Lily no se merece esto!
 
 De verdad te admiraba...
 Desde que te vi despachar a esos mercenarios...
@@ -3137,9 +3137,9 @@ No estés tan apresurada.
 Mis hombres son bien concientes de tu reputación, Gray la Destructora...
 Creo que ni siquiera tú serías tan imprudente como para creer que podrías encargarte de todos de frente.
 Me importa un comino...
-Mientras que tu cabeza ruede con la mía!
+¡Mientras que tu cabeza ruede con la mía!
 
-Paren!
+¡Paren!
 Su Alteza...
 Por favor detén esto, Johann...
 Haré lo que quieras.
@@ -3152,11 +3152,11 @@ Entrégate pacíficamente y me aseguraré de respetar el deseo de su majestad.
 Lily.
 ... Lo siento.
 
-Lady Gray!
-No pude creer a mis ojos cuando vi que los guardias te llevaban...!
+¡Lady Gray!
+¡No pude creer a mis ojos cuando vi que los guardias te llevaban...!
 Entonces escuché la acusasión de asalto...
-Qué tonterías!
-Nunca lastimarías a Su Majestad!
+¡Qué tonterías!
+¡Nunca lastimarías a Su Majestad!
 
 
 La ceremonia ya ha comenzado.
@@ -3164,10 +3164,10 @@ No sé por qué, pero algo...
 Algo simplemente no está bien.
 Por eso me tomé la libertad de traer tu atuendo de batalla.
 Aunque espero que no haya que recurrir a eso...
-Por favor, Lady Gray, salve a Su Alteza y escapen!
+¡Por favor, Lady Gray, salve a Su Alteza y escapen!
 Solo tú puedes hacerlo...
-Solo tú puedes salvar su felicidad!
-Eso es lo que Su Majestad, la Reina, habría querido!
+¡Solo tú puedes salvar su felicidad!
+¡Eso es lo que Su Majestad, la Reina, habría querido!
 
 Escóndete.
 Yo distraeré a los guardias.
@@ -3190,7 +3190,7 @@ Parece que la dama de compañía se ha arrastrado fuera del calabozo.
 ¡¿Su Alteza, está bien?!
 Lo siento, Gray...
 No pude hacer nada...
-Ahora todo el mundo está...!
+¡Ahora todo el mundo está...!
 
 ¡¿Qué significa esto, Johann?!
 Me temo que has llegado un poquito tarde. 
@@ -3215,14 +3215,14 @@ Todo lo que necesitaban a cambio era mi devoción inquebrantable.
 
 
 Guiándome por eso, vine a ofrecer este reino en ruinas y a sus habitantes como parte de nuestro contrato.
-Muéstrense, Señores del Vacío!
+¡Muéstrense, Señores del Vacío!
 
 Si si.
 Bájale al melodrama ese.
 ...
 
 ... Así que estos seres son la fuente de tu poder...
-Demonios!
+¡Demonios!
 
 Hmm, Supongo que así es como los mortales nos llaman ahora eh...
 Si bien no me gusta que nos llamen así...
@@ -3239,7 +3239,7 @@ Si ofreces tu alma como la parte final de mi sacrificio, prometo dejar a tu prin
 ¿... Y por qué debería confiar en tí?
 Porque te aferrarás a cualquier destello de esperanza para mantener a tu princesa segura.
 Justo como hiciste para persuadirme a casarme con ella...
-Cállate maldito bastardo!
+¡Cállate maldito bastardo!
 Si solo hubieras sabido que me iba a casar con ella de todas maneras para cumplir con mi plan...
 Por suerte, hacerme el difícil dio sus frutos, ya que disfruté mucho de tu.....
 Entusiasmo.
@@ -3271,13 +3271,13 @@ Umm, Es ´´Lord´´ Bee para tí...
 ¿Lo puedo hacer, hermanita?
 ... Cómo quieras.
 Pero si DIS se entera, estás sola.
-Yey!
+¡Yey!
 
-Holaaa!
-Soy el Señor del Vacío Bee!
+¡Holaaa!
+¡Soy el Señor del Vacío Bee!
 Gusto en conocerte.
 Ahora...
-VAMOS A PRENDERNOS, MORTAL!
+¡VAMOS A PRENDERNOS, MORTAL!
 
 Maldición...
 ¿Qué eres?
@@ -3293,7 +3293,7 @@ Naturalmente.
 
 Verte esforzarte tanto fue verdaderamente magnífico.
 Una pena que las cosas hayan terminado así...
-Como el futuro emperador del mundo lúcido, me habría encantado tenerte a mi lado...!
+¡Como el futuro emperador del mundo lúcido, me habría encantado tenerte a mi lado...!
 
 (Mierda...)
 (Lo siento...)
@@ -3311,7 +3311,7 @@ Pero si Johann hizo un contrato contigo...
 
 ¡Bueno pero mira eso!
 Nuestra joven princesita  cree que su alma vale algo.
-...!
+¡...!
 ¿Crees que puedes hacer un contrato con ellos así como así?
 ¡Qué increíblemente crédula que eres!
 ...
@@ -3324,22 +3324,22 @@ Jovencita.
 ¿Esto tiene que ser una broma verdad?
 ¡Esta niña ingenua ni siquiera entiende el verdadero significado de la devoción...!
 Esto no es algo en lo que tengas opinión, subordinado.
-...!
+¡...!
 ¿Estás seguro de esto, Su Señoría?
 DIS ha aprobado sus términos.
 Un contrato puede ser formado.
-Hoooo!
-Esto se puso super interesante!
+¡Hoooo!
+¡Esto se puso super interesante!
 Te preguntaré una vez más, jovencita.
 ¿Quieres ofrecer tu alma a cambio de la seguridad de esta mujer?
 ... Si.
 Eso quiero.
 
-Su Majestad, espere!
-No puedo aceptar esto!
-Tú ahí..!
+¡Su Majestad, espere!
+¡No puedo aceptar esto!
+¡Tú ahí..!
 Parece que eres el líder de esta gente...
-Te imploro, toma mi alma en su lugar!
+¡Te imploro, toma mi alma en su lugar!
 Destroza mi cuerpo si así lo quieres
 ... Me temo que eso no es posible.
 
@@ -3352,7 +3352,7 @@ Qué...
 Qué está pasando...
 ¡¿Cómo llegamos a esto...?!
 Gray.
-...!
+¡...!
 No te preocupes mucho.
 Es mejor así.
 Antes estaba tan asustada que pensé que era mejor morir...
@@ -3388,25 +3388,25 @@ Desgraciadamente no voy a correr el riesgo de dejarte viva.
 Ooh, olvidé mencionarlo.
 Ya que no completaste el sacrificio a tiempo, tu contrato ha sido anulado.
 Así que dile adiós a ese chasquido de dedos mágico tuyo y eso.
-Eso no es gracioso, Bee...!
-Solo me faltaba una!
+¡Eso no es gracioso, Bee...!
+¡Solo me faltaba una!
 Parece que me importa
 Además, me parece que ese es el menor de tus problemas ahora mismo...
-Nos vemmos pronto!
+¡Nos vemmos pronto!
 
 Gray, por favor...
 Ha sido un día difícil para todos...
 Así que cálmate y escúchame.
 No tienes idea de todo lo que tuve que hacer para llegar donde estoy ahora.
 Solo lo hice por mi reino...
-Por mi gente!
-No guardo ninguna mala intención hacia tí, tu princesa o tu reino!
+¡Por mi gente!
+¡No guardo ninguna mala intención hacia tí, tu princesa o tu reino!
 ¡El contrato me obligaba...!
 ¡Estaba atrapado!
-No esperaba nada de esto!
+¡No esperaba nada de esto!
 Es cierto que al principio solo pensaba casarme con tu princesa sin pensar mucho...
 Pero cuando te vi, y vi lo lejos que estabas dispuesta a llegar para asegurarte de que me casara con Su Alteza...
-Aproveché la oportunidad de usarte para mi propio placer...!
+¡Aproveché la oportunidad de usarte para mi propio placer...!
 Lo siento terriblemente por eso, y entiendo que nada de lo que diga lo compense...
 ¡Pero mi juicio estaba nublado!
 ¡Por mis instintos, por mis deseos...!
@@ -3432,14 +3432,14 @@ Lo siento terriblemente por eso, y entiendo que nada de lo que diga lo compense.
 [¡Golpeas al monstruo con todo lo que tienes!]
 [Un monstruo cuya existencia se burla del mundo mismo]
 
-Deja en paz a Su Alteza!
+¡Deja en paz a Su Alteza!
 ¡Desaparece!
 ¡Muere, monstruo!
 ¡Toma esto, maldita criatura!
 ¡No escaparás...!
 ¡Te destruiré!
-Por todo lo que es sagrado...!
-ORRRYAAAAAGGGH!!!
+¡Por todo lo que es sagrado...!
+¡¡¡ORRRYAAAAAGGGH!!!
 
 ¡Ouch... Solo bromeaba!
 ¿No tienes algo más picante?
@@ -3461,7 +3461,7 @@ Bueno, eso fue un punto para tí,, esto no se ve muy seguido.
 Calla.
 ...
 
-Gray...!
+¡Gray...!
 Hay algo que tengo que decirte...
 
 
@@ -3523,7 +3523,7 @@ Te aplaudimos.
 
 
 Felicitaciones.
-Felicitaciones!
+¡Felicitaciones!
 
 
 
@@ -3630,10 +3630,10 @@ Por favor, vete...
 
 Me dijeron que no hablara con extraños...
 
-Holaaa!
+¡Holaaa!
 No pensé que pudieras hacerlo...
 Pero de verdad mataste a esa serpiente chismosa.
-Y fríamente!
+¡Y fríamente!
 Honestamente, pienso que debería haberme encargado yo misma...
 No es que esa charlatana supiera realmente algo que valiera la pena.
 Así que cualquier sabiduría que pudo haber compartido contigo...
@@ -3642,10 +3642,10 @@ Quiero decir ¿cómo podría haber entendido lo que estaba pasando en ese entonc
 ...
 Me estoy volviendo blanda.
 Ve a morirte o algo.
-Nos vemos!
+¡Nos vemos!
 
 Parece que estás en un apuro.
-Diviértete!
+¡Diviértete!
 PRÓLOGO
 Has crecido tan rápido...
 Qué alivio.
@@ -3691,7 +3691,7 @@ No puedo decepcionarla de nuevo.
 (¿Abierto?)
 
 (... Nada.)
-(Bingo!)
+(¡Bingo!)
 
 ...
 Supongo que eso lo resuelve.
@@ -3701,7 +3701,7 @@ Hola, pequeña.
 
 ¡¿Puede hablar...?!
 No estaba escuchando cosas...
-Realmente habla!
+¡Realmente habla!
 
 ¿Lo siento, acaso te dejé confundida?
 ... Debería haberlo sabido, los tuyos siempre suelen mantener su distancia de mí.
@@ -3800,9 +3800,9 @@ SUEÑO DE LILLIE I
 Y con eso terminaría el recorrido.
 Así que ¿qué piensas?
 Seguro, hay algunos lugares a los que no les vendría mal un poco de maquillaje...
-Pero no es nada que algo de trabajo duro no arregle!
+¡Pero no es nada que algo de trabajo duro no arregle!
 Además, hay espacio más que suficiente para tí y tu hija.
-Francamente, este lugar es un robo!
+¡Francamente, este lugar es un robo!
 Y este aire de historia que permea toda la residencia...
 ... Es verdaderamnete...
 ... Impresionante. 
@@ -3834,12 +3834,12 @@ Te veremos después.
 
 ¿Y se puede saber qué le pasó a tus zapatos, señorita?
 ¡Me los quité!
-Están en mi cuarto!
+¡Están en mi cuarto!
 ¿... Tu cuarto?
 ¡Si, el grande!
 Cálmate un poco mi amor.
 No nos hemos mudado todavía...
-También hay una rata muerta gigante en el clóset!
+¡También hay una rata muerta gigante en el clóset!
 ... Oh.
 (... Quizás deberíamos llamar a un exterminador primero...)
 
@@ -3876,7 +3876,7 @@ También aprendieron a temerles.
 ¿...Mamá?
 ¿Si querida?
 ¿Podrías leerme una historia para dormir distinta de una vez?
-He escuchado esta un millón de veces ya!
+¡He escuchado esta un millón de veces ya!
 Muchos han olvidado completamente esta historia.
 Es muy importante que la recuerdes.
 ¿Pero por qué?
@@ -3904,7 +3904,7 @@ SUEÑO DE LILLIE III
 ¡Yo puedo hacerlo sola!
 Apúrate entonces.
 En cualquier momento llegan a buscarte.
-Okey!
+¡Okey!
 
 (¿Ya llegaron...?)
 
@@ -3924,7 +3924,7 @@ Regalitos.
 Bonjour y todo eso.
 
 Espera...
-¿Esos son Pr***D****s?!
+¡¿Esos son Pr***D****s?!
 Únicos e inigualables. recién salidos de la fábrica.
 Ve a la tienda si necesitas unos ajustes.
 Debieron haber costado una pequeña fortuna...
@@ -3939,10 +3939,10 @@ Lillie quería vestirse sola.
 Ya sabes cómo es...
 Dímelo tú.
 
-Hola Sonia!
-Hola Tía Freya!
+¡Hola Sonia!
+¡Hola Tía Freya!
 Ooh, qué traje más adorable.
-Mi mamá me lo hizo!
+¡Mi mamá me lo hizo!
 Ella se enamoró de este show que están dando...
 Y me insistió mucho en que le hiciera un vestido parecido al de la protagonista.
 Hombre, de verdad que me das envidia.
@@ -4016,9 +4016,9 @@ Bueno bueno ¿consiguieron caramelos?
 ¡Muchos!
 ¿... Sabes que no te lo puedes comer todos de una, verdad?
 Okey...
-Casi me olvido!
+¡Casi me olvido!
 Vamos a hacerles una foto a ustedes dos.
-Sonrían!
+¡Sonrían!
 
 
 
@@ -4056,7 +4056,7 @@ Solo te estamos dando unos pequeños retoques.
 Tu closet es un crimen contra la humanidad.
 Solamente te trajimos de vuelta al siglo actual.
 ... Lo único que voy a agarrar en este vestido es un resfriado. 
-Suficiente parloteo!
+¡Suficiente parloteo!
 Vamos a ver.
 ...
 Qué les parece
@@ -4069,7 +4069,7 @@ Cuál es su veredicto ¿Su Alteza?
 INICIO DE LA CITA
 
 ¿... Estoy en la mesa correcta?
-...!
+¡...!
 Bueno...
 Incluso si estuviera en la incorrecta, no me importaría.
 ... ... ...
@@ -4094,10 +4094,10 @@ Yo solo agua, gracias.
 ¿De qué se habla en la primera cita?
 ¡No te preocupes por eso!
 Dan es un tipo bastante relajado.
-Sólo sé tu misma y van a conectar en nada!
+¡Sólo sé tu misma y van a conectar en nada!
 
 (... Gracias por nada.)
-(Rápido, encuentra algo que decir!)
+(¡Rápido, encuentra algo que decir!)
 
 [Hablar del Clima]
 [Hablar del Trabajo de Dan]
@@ -4108,7 +4108,7 @@ En realidad no me importa la nieve pero preferiría no...
 ... Congelarme hasta...
 Morir.
 Realmente te estás aferrando a un pelo ahí eh.
-...!
+¡...!
 Freya me dijo que no salías mucho.
 Pero incluso con todo lo que ella me contó de tí...
 No eres para nada como me imaginaba.
@@ -4179,7 +4179,7 @@ Naciones enteras han desaparecido sin dejar rastro...
 Junto con innumerables sueños y recuerdos, los de todos aquellos que vivían ahi.
 Solo estoy tratando de comprenderlo todo, para que no repitamos los mismos errores que ellos a futuro.
 ...
-Disculpa!
+¡Disculpa!
 Me dejé llevar.
 No no, no te molestes.
 Solo me quedé desconcertado.
@@ -4356,7 +4356,7 @@ Pero mi trato sigue en pie.
 
 
 
-Oh, esto es tan emocionante...!
+¡Oh, esto es tan emocionante...!
 Muy bien, aquí viene:
 Eso es todo.
 
@@ -4369,7 +4369,7 @@ Tu expresión...
 
 Cómo habrás notado, viajar por estos pasillos se puede volver un poco cansino.
 Por ahí hay, sin embargo, algunos atajos que muy pocos conocen...
-Si me das todas tus langostas, te daré una pista que te permitirá encontrar una de ellas!
+¡Si me das todas tus langostas, te daré una pista que te permitirá encontrar una de ellas!
 No queremos que esa cabeza tuya se embobe por completo.
 
 Dame todas tus langostas y te guiaré hacia el siguiente atajo.
@@ -4438,10 +4438,10 @@ Cada minuto que pasa hablas más incoherencias.
 
 ¿Cómo la conoces?
 Yo no diría que la conozco...
-Pero cualquier mercenario que se precie ha escuchado de Gray la Destructora!
+¡Pero cualquier mercenario que se precie ha escuchado de Gray la Destructora!
 Y yo tuve el privilegio de conocerla cara a cara.
 Bueno, sus puños, más precisamente.
-Por eso es que reconocería esa postura donde fuera!
+¡Por eso es que reconocería esa postura donde fuera!
 Ella te enseñó ¿verdad?
 Yo de verdad no sé nada de mercenarios ni ninguna basura de esas de las que parloteas...
 Pero Gray sí me enseñó a valerme por mí misma.
@@ -4475,12 +4475,12 @@ Por un momento creí que estaría aquí para siempre.
 Estaba planeando descansar un rato aquí...
 ¿Quieres unirte?
 [...]
-Estaba bromeando!
+¡Estaba bromeando!
 Maldición, qué frialdad...
 
 [Decides dejar al pervertido en lo suyo]
 
-De verdad lo resolviste...!
+¡De verdad lo resolviste...!
 Qué pasa con ese bastón tuyo...
 ¿Alguna clase de magia arcana quizás?
 Y eres astuta también, supongo.
@@ -4547,7 +4547,7 @@ S-sih, seguro.
 
 
 SUEÑO DE LILLIE V
-Esto es absurdo!
+¡Esto es absurdo!
 Por favor, no hay necesidad de levantar tu voz de esa manera...
 Estás patinando en un hielo demasiado fino ahora mismo como para estar dando consejos.
 Hemos discutido esto demasiadas veces ya.
@@ -4572,7 +4572,7 @@ Muchas gracias.
 La única cosa que siento es no haberle partido el otro brazo...
 ¿No fui lo suficientemente clara cuando te entrené?
 Solo se supone que debas defenderte a tí misma.
-Esos idiotas empezaron!
+¡Esos idiotas empezaron!
 Ellos se seguían riendo de mi pelo y mi voz...
 Porque saben que te molesta.
 Solo tienes que...
@@ -4601,7 +4601,7 @@ No digas eso, querida...
 ... Sih...
 
 Ah, y sin Televisión por un mes.
-No puede ser!
+¡No puede ser!
 
 
 
@@ -4876,7 +4876,7 @@ Debería ahber una estatua sonriente por aquí cerca.
 Solo lanzate por el agujero frente a ella.
 Eso debería funcionar.
 Oh, Supongo que me tiro a morir entonces.
-... Y una mierda me tiro!
+¡... Y una mierda me tiro!
 ¡¿Estabas intentando engañarme, verdad?!
 Realmente no me importa si me crees o no...
 Oh, casi lo olvido.
@@ -4956,7 +4956,7 @@ Así que ¿qué te parece?
 
 Okay...
 Lo haré.
-Yey!
+¡Yey!
 Qué alivio.
 No digas eso...
 ... Lo siento.
@@ -4967,7 +4967,7 @@ Si ves a mi hermana, Tan...
 Dile que Gor manda saludos.
 Le falta el ojo izquierdo, estoy seguro que la reconocerás si se encuentran.
 Eso es todo.
-Nos vemos, extraño!
+¡Nos vemos, extraño!
 
 
 
@@ -5139,7 +5139,7 @@ Es gracias a este bastón que me encontré por ahí.
 Todavía no entiendo qué es o qué pasa con él...
 Pero vaya si es útil aquí abajo.
 ...
-Cógeme!
+¡Cógeme!
 ... Qué.
 Q-quise decir...
 ¡Por favor, coge y llévame contigo!
@@ -5163,8 +5163,8 @@ Mi nombre es Lillie.
 Ni...
 Ninnie.
 Es un gusto conocerte, Ninnie...
-Vamos a encontrar una manera de salir de este basurero juntas!
-S-Sí!
+¡Vamos a encontrar una manera de salir de este basurero juntas!
+¡S-Sí!
 
 P-puedes seguir adelante.
 Mientras el camino a la salida esté claro, te s-seguiré de cerca.
@@ -5299,7 +5299,7 @@ Disculpa, t-te debo sonar muy molesta...
 No hables tonterías.
 Si solo hubieras escuchado mi voz cuando era adolescente.
 Los abusones tenían el día hecho conmigo.
-D-de ninguna manera!
+¡D-de ninguna manera!
 ¿Te hicieron bullying?
 ¿C-cómo fue que...?
 ¿... Lidié con eso?
@@ -5334,7 +5334,7 @@ Estamos lejos de terminar.
 
 Gracias, Lillie.
 Puedo seguir la guardia, si te sientes c-cansada.
-Estoy segura que con suficiente descanso, se te ocurrirá una solución!
+¡Estoy segura que con suficiente descanso, se te ocurrirá una solución!
 
 [La mujer tímida asiente, sonriendo]
 [...]
@@ -5348,10 +5348,10 @@ Ugh, este piso es un enredo...
 P-probablemente sería mas fácil sola...
 ...
 Gracias por torcer el cuchillo.
-Ack!
+¡Ack!
 
-Cuidado!
-E-ese castor gigante te sigue persiguiendo!
+¡Cuidado!
+¡E-ese castor gigante te sigue persiguiendo!
 ...
 (... Eso no parece un castor para nada.)
 
@@ -5362,19 +5362,19 @@ Pero si se suelta, me va a partir el culo en cero coma.
 S-suena doloroso...
 (¿Sabes que es solo un decir, verdad?)
 
-O-otro más de estos!
+¡O-otro más de estos!
 No saben cuándo rendirse.
 Al menos no parecen estar interesados en tí.
 En verdad, puede que seas útil para este trabajo...
 S-si puedo ayudar de alguna forma, déjame saber.
 ...
-M-mientras no me empujes directo hacia ellos!
+¡M-mientras no me empujes directo hacia ellos!
 
 Esas estatuas de nuevo...
 ¿Qué pasa?
 Parece que no les gusta cuando uso mi bastón cerca de ellas...
 Hay que ser cuidadosas.
-P-puedes hacerlo!
+¡P-puedes hacerlo!
 
 Esta habitación no parece tan m-mala.
 No me gusta esto...
@@ -5392,10 +5392,10 @@ Disculpa por eso...
 M-mucho mejor ahora que estás aquí.
 
 Estas estatuas de nuevo no...
-C-con cuidado!
+¡C-con cuidado!
 
-Ack!
-Ese acosador se mueve cuando tú lo haces!
+¡Ack!
+¡Ese acosador se mueve cuando tú lo haces!
 Son bastante malrolleros...
 Pero debo ser capaz de engañarlos.
 Sólo necesito algo...
@@ -5416,12 +5416,12 @@ Déjame saber si me estoy moviendo muy rápido.
 
 Esto es engañoso...
 Si n-necesitas ayuda...
-Yo p-puedo pulsar ese botón por tí!
+¡Yo p-puedo pulsar ese botón por tí!
 (¿... Acaso eso funcionará?)
 
 Un acosador y una jódete-estatua...
 Vaya suerte la mía.
-Estoy s-segura que te las puedes arreglar!
+¡Estoy s-segura que te las puedes arreglar!
 
 Hmm...
 No puedo llegar a la salida sin activar estos paneles del suelo...
@@ -5433,8 +5433,8 @@ Cuidado, no hay mucho espacio para moverse.
 ¡Ack!
 (¿Qué estaba mirando...?)
 
-Cuidado!
-Lo sé!
+¡Cuidado!
+¡Lo sé!
 No hay manera de sortear esta, eh...
 
 
@@ -5538,17 +5538,17 @@ Ehmm, bienvenida al siglo 21 abuelita.
 Por qué no te cortas el pelo tú también.
 Quien sabe, a lo mejor logras un poco de acción entre esas piernas rígidas tuyas y te sueltas un poco.
 
-....!
+¡....!
 No voy a escuchar tales vulgaridades de nadie en esta casa.
 Cómo te volviste una mujer tan vulgar...
-¿Eres peor que tu madre!
+¡Eres peor que tu madre!
 ¿... ... ...?
 !!!
 ¿M-mamá?
 Vete.
 No puedo soportar verte así.
 Pero...
-Fuera!
+¡Fuera!
 
 
 
@@ -5817,12 +5817,12 @@ Si me odiabas tanto, deberías haberme abandonado cuando era pequeña.
 Nos hubieras ahorrado muchos problemas.
 
 Solo...
-Dime algo, vieja bruja!
+¡Dime algo, vieja bruja!
 No actúes así después de tantos años...
-... No tienes nada que decir!
-Pensé que eras mejor que esto!
+¡... No tienes nada que decir!
+¡Pensé que eras mejor que esto!
 Eres la persona más fuerte conocí, en toda mi vida
-No una perdedora que se muere sin avisar!
+¡No una perdedora que se muere sin avisar!
 ¡¿Acaso te admiré durante toda mi vida para nada?!
 
 Por favor...
@@ -5891,7 +5891,7 @@ Por favor, déjala estar en paz.
 Pffft...
 ¡Ah ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha  haa!
 
-Bien dicho, extraño!
+¡Bien dicho, extraño!
 
 Así que...
 ¿Qué opinas?
@@ -6187,7 +6187,7 @@ Pero algo sobre su toque me hizo sentir incómoda.
 Cómo si hubiera sentido algo similar antes.
 Es Mon, ciertamente.
 ...
-Habló contigo?
+¿Habló contigo?
 No, pero estaba murmurando algo.
 Algo de estar yendo a El Séptimo Círculo.
 El territorio de Lev...
@@ -6257,7 +6257,7 @@ Así que ¿qué tal la revancha?
 ¿Cómo una cucaracha como tú se las arregló para llegar aquí?
 Esta es la primera vez que me llaman tan profundo sabes.
 Quizás haga un tour por aquí...
-DESPUÉS QUE TERMINE CONTIGO, MALDITO INSECTO MISERABLE!
+¡DESPUÉS QUE TERMINE CONTIGO, MALDITO INSECTO MISERABLE!
 
 
 
@@ -6419,12 +6419,12 @@ Ksi shi shi shi...
 ¿Piensas que me lo estaba tomando en serio en aquel entonces?
 ¡Esa pequeña farsa fue parte de nuestro plan!
 ¿´´Nuestro´´ plan huh?
-...!
+¡...!
 Así que es cómo pensé.
 Un sicópata como tú no hubiera podido planear algo así de complicado por su cuenta.
 ...
 Ksi shi...
-KSI SHI SHI SHI SHI SHI SHI SHI SHI SHI!
+¡KSI SHI SHI SHI SHI SHI SHI SHI SHI SHI!
 QUE SE ME HAYA IDO LA LENGUA NO TE VA A LLEVAR A NINGÚN LADO, CUERNI*****.
 
 MIS OJOS...
@@ -6452,32 +6452,32 @@ REUNIÓN CON BEE
 ¿Hermanita...?
 ¿Eres tú?
 Hola.
-HERMANAAAAAAA!!!
-Tenía tanto miedo!
+¡¡¡HERMANAAAAAAA!!!
+¡Tenía tanto miedo!
 Cálmate, cálmate...
-No lo entiendes!
-Vi a Lord Add!
+¡No lo entiendes!
+¡Vi a Lord Add!
 Después de todos estos años...
 Pero entonces...
 Eso no es posible.
 Add está muerta.
 No...
-NO!
-ESTO DEBE SER UN TRUCO!
+¡NO!
+¡ESTO DEBE SER UN TRUCO!
 ESE MORTAL...
-DEBE HABER SIDO ALGO SUYO!
+¡DEBE HABER SIDO ALGO SUYO!
 Bee...
 LE ENCONTRARÉ...
-Y LUEGO LE APLASTARÉ!
-RETORCERÉ!
-DESPELLEJARÉ!
-LE ARRANCARÉ MIEMBRO A MIEMBRO!
-MOLERÉ SUS HUESOS Y LOS HARÉ POLVO!
+¡Y LUEGO LE APLASTARÉ!
+¡RETORCERÉ!
+¡DESPELLEJARÉ!
+¡LE ARRANCARÉ MIEMBRO A MIEMBRO!
+¡MOLERÉ SUS HUESOS Y LOS HARÉ POLVO!
 ENTONCES DESTROZARÉ SUS ÓRGANOS...
 LE ABRIRÉ EL HÍGADO Y BEBERÉ SU SAMGRE...
 EL RESTO VA A LA OLLA...
 REVUELVE Y FRÍE DURANTE 45 MINUTOS...
-Y PRESTO!
+¡Y PRESTO!
 ¡EL BOCADILLO DE MEDIA NOCHE PERFECTO!
 
 Estoy feliz que estés bien.
@@ -6498,8 +6498,8 @@ Hey ¿cómo te las arreglaste para encontrarme de todos modos?
 Es una larga, larga historia...
 Quizás en otro momento.
 Me encantaría descansar por ahora.
-Tú y yo!
-Adelante esos créditos!
+¡Tú y yo!
+¡Adelante esos créditos!
 Qué.
 
 
@@ -6660,18 +6660,18 @@ Nunca me presenté.
 
 Finalmente.
 
-Qué mirada tan perpleja tienes, mortal!
+¡Qué mirada tan perpleja tienes, mortal!
 ... ... ...
 Oh, ya no puedes escucharme.
 El fallo en mi forma original no ha cambiado ni un ápice
 No importa.
 DIS finalmente está a mi merced
 
-Alto!
+¡Alto!
 No sé lo que estas planeando y desearía no tener que interfenir...
-Pero debes detenerte!
+¡Pero debes detenerte!
 La verdadera naturaleza de DIS está mucho más allá de tu comprensión.
-No puedo dejar que entres en contacto con ello!
+¡No puedo dejar que entres en contacto con ello!
 Muere.
 
 ¿Hmm?
@@ -6740,13 +6740,13 @@ Dámelo y podrás tener tu preciosa pila de carne.
 ... ... ...
 Tómalo.
 
-Gray!
+¡Gray!
 Disculpa que te haya hecho esperar tanto, Lily.
 
 Qué adorable.
 Me temo que este es el final de su cálida reunión.
 Al menos puedo asegurar que los momentos finales de su patética existencia serán verdaderamente magestuosos.
-Levántate, Devanam Indra Sakra!
+¡Levántate, Devanam Indra Sakra!
 
 
 
@@ -6766,12 +6766,12 @@ Siento haberte metido en este desastre.
 Ora che Lev ha preso il controllo di DIS...
 ... Sono solo felice di averti potuto vedere un'ultima volta.
 
-Habla por tí!
+¡Habla por tí!
 
 ... Qué.
 
 . . . . . . . 
-Buah ahah ahahah!
+¡Buah ahah ahahah!
 
 
 
@@ -6801,7 +6801,7 @@ Incluso si yo...
 No me dejas otra opción.
 Esto debe terminar.
 Nosotros debemos terminar...
-Lev!
+¡Lev!
 [Una creación a tu propia imagen]
 
 ESCUDO ANTI-GRAVEDAD.
@@ -6859,7 +6859,7 @@ De verdad me seguiste hasta el fin del mundo...
 Sí que tienes valor, eso es seguro.
 Ummm...
 Creo que no terminas de entender la severidad de la situación...
-Lo sé!
+¡Lo sé!
 DIS esto, Lev lo otro, espaciotiempo aquello...
 ¡No tengo la más mínima idea!
 
@@ -6872,7 +6872,7 @@ La tuviste realmente difícil ¿verdad?
 Cualesquiera que fueran tus razones...
 Gracias por quedarte a mi lado todo este tiempo.
 Ahora déjame regresar el favor
-Vamos, juntas!
+¡Vamos, juntas!
 
 Y ahora mira lo bajo que has caído.
 Combinando tu alma con el cuerpo de esa sucia mortal.
@@ -6889,7 +6889,7 @@ Ella no va a venir ¿verdad?
 Estoy segura que lo intentó lo mejor que pudo.
 Cuidar de tí...
 Así que no importa lo que sea que te haya hecho llegar tan lejos...
-Deseo ir contigo!
+¡Deseo ir contigo!
 Es mi única manera de regresarle el favor a Gray.
 
 
@@ -6912,7 +6912,7 @@ Así que intenta agarrarte bien.
 ¿O acaso piensas que puedes encargarte de esa tal Lev por tu cuenta?
 Parecía bastante fuerte.
 No estoy segura cómo lo hice...
-Pero si pudiera ser capaz de detenerla por solo un momento, estoy segura que sería de mucha ayuda!
+Pero si pudiera ser capaz de detenerla por solo un momento, ¡estoy segura que sería de mucha ayuda!
 Así qu deja de ser tan melodramática y déjame ayudarte, mongólica.
 
 Incluso después de todo este tiempo...
@@ -6933,7 +6933,7 @@ Ella nunca se rindió con ninguna de nosotras.
 Aunque a veces esa decisión le pesaba insoportablemente...
 Gray siempre creyó que un día, de algún modo, podría salvarte.
 ¡Y si ella estaba dispuesta a creer en tí, yo también lo haré!
-No te arrepentirás!
+¡No te arrepentirás!
 Aunque tengo que admitir, Se siente un poco extraño conocerte de esta manera...
 Vamos a ponernos al día una vez terminemos con esto ¿si?
 ... Sih.
@@ -6969,9 +6969,9 @@ Creo en ti.
 ¿Ya tuviste tu parte?
 
 Escuché que obtienes puntos extras por hacer que arrastren los orbes hasta cierto punto...
-Lillie, Lev!
+¡Lillie, Lev!
 ¡La cena está casi lista!
-Okey ma´!
+¡Okey ma´!
 ...
 ¿Tan mal lo hice?
 ¡Creo que rompiste mi récord!
@@ -7068,9 +7068,9 @@ Sígueme al vacío y regresarás a dónde empezaste...
 
 No te rindas.
 Puedes hacerlo.
-Dalo todo!
+¡Dalo todo!
 Confía en tí mismo.
-Sigue!
+¡Sigue!
 Nada es imposible.
 Creo en tí.
 Puedes hacerlo.
@@ -7101,14 +7101,14 @@ Gracias.
 No puedes usar esa.
 Me temo que esa está siendo usada, pequeña.
 Consigue la tuya, cucaracha. 
-Puede que esa sea demasiado cara, incluso para tí!
+Puede que esa sea demasiado cara, ¡incluso para tí!
 Déjame en paz...
 Qué aburrido.
 Denegado.
 ... No puedes usar esa.
 Siempre hay algo.
 Mantén ABAJO en la pantalla de título para empezar un nuevo desafío.
-Buena suerte!
+¡Buena suerte!
 
 Busca lo que queda del primer Señor traidor.
 Empuja al ídolo desolado que protege su debilidad 23 veces, luego quédate quieta y espera y espera...
@@ -7178,7 +7178,7 @@ Puedo manejar las cosas por aquí, así que solo ve y relájate.
 ¿Qué pasa, mi amor?
 ¡Quiero tomarme una foto contigo antes de que te vayas!
 Por qué tan de repente...
-Excelente idea!
+¡Excelente idea!
 Después de todo, una ocasión como esta tiene que ser inmortalizada.
 Ya me estoy arrepintiendo...
 ¿Qué tal si sigues adelante y posas con tu madre, Lillie?
@@ -7195,7 +7195,7 @@ Muy bien, acérquense un poco más ustedes dos...
 ¿Aceptar?
 [Y así, dejas este mundo lúcido]
 
-Bienvenido!
+¡Bienvenido!
 No creo que nos hayamos conocido antes.
 
 ¿Nos hemos conocido antes...?
@@ -7220,7 +7220,7 @@ Aquí tenemos algunas ilustraciones no usadas de Gray.
 Aunque no hayan salido tan bien, dibujarla siempre es divertido.
 Ahora que lo pienso, la creación de Gray fue lo que puso el proyecto en movimiento.
 Se dibujó primero, antes incluso de que hubieran mecánicas o una historia concretas planificadas.
-Vaya manera de poner el carro antes del caballo!
+¡Vaya manera de poner el carro antes del caballo!
 Pero bueno, la inspiración puede venir cuando menos te lo esperas.
 Como personaje, Gray me recuerda a Moominmamma de Moomins y Gally de Gunnm.
 Viendo atrás, ciertamente hay cosas en su diseño que me gustaría mejorar, especialmente ahora que sé como termina la historia...
@@ -7259,7 +7259,7 @@ Bueno, en realidad pensaba que todo el juego estaba listo en ese punto.
 Pero luego mi esposa me dijo que ni loca iba a probar los puzzles más difíciles si no había ningún contenido de historia nuevo.
 Decir que el alcance del juego se expandió a partir de ahí sería...
 Quedarse corto.
-Y yo esperando que este proyecto fuera uno corto!
+¡Y yo esperando que este proyecto fuera uno corto!
 Aunque...
 Lillie acabó siendo mi personaje favorito, así que lo compensa.
 
@@ -7277,8 +7277,8 @@ El hecho de que hayas llegado hasta aquí significa que sientes el mismo anhelo 
 ¿Puedes oírme ahora?
 Yo puedo oírte.
 Espero que te hayas divertido.
-Gracias por jugar y por tu tiempo!
-Nos vemos en la próxima aventura!
+¡Gracias por jugar y por tu tiempo!
+¡Nos vemos en la próxima aventura!
 
 ¡Tú diablillo insolente...!
 ¡Te escapaste de nuevo!
@@ -7479,7 +7479,7 @@ CIF
 [Una extraña criatura]
 [Mejor dejarla tranquila]
 
-Vamos a encontrarnos cuando termines!
+¡Vamos a encontrarnos cuando termines!
 Falta un poco de algo...
 
 TECLADO
@@ -7585,9 +7585,9 @@ TOTAL
 RECORDS
 
 AGRADECIMIENTOS ESPECIALES
-... A TÍ!
+¡... A TÍ!
 
-Hasta la próxima!
+¡Hasta la próxima!
 Ad meliora
 
 AlexMdle

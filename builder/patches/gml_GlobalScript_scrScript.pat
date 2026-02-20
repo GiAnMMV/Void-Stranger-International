@@ -1,5 +1,4 @@
-// TARGET: LINENUMBER_REPLACE
-// 3
+3c
     var _lang = global.language;
     if (argument_count > 1)
     {
@@ -19,3 +18,4 @@
         return string("{{0}}", argument[0]);
     }
     return _res;
+.

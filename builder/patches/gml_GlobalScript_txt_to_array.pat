@@ -1,4 +1,4 @@
-// TARGET: REPLACE
+1a
 function txt_to_array(arg0, arg1)
 {
     var _res = [];
@@ -62,3 +62,4 @@ function txt_to_array(arg0, arg1)
     buffer_delete(_buffer);
     return _res;
 }
+.

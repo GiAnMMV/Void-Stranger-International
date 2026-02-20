@@ -1,15 +1,15 @@
-// TARGET: LINENUMBER
-// 246
+245a
             if (offset_language >= current_language)
             {
                 offset_language--;
             }
-// TARGET: LINENUMBER
-// 259
+.
+254a
             if ((offset_language + min(language_count, 4)) < current_language)
             {
                 offset_language++;
             }
-// TARGET: LINENUMBER_REPLACE
-// 279
+.
+271c
     if (display_text == false && first_input == false)
+.

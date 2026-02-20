@@ -1,10 +1,10 @@
-// TARGET: LINENUMBER_REPLACE
-// 22
+22c
     case 0:
-// TARGET: LINENUMBER
-// 41
+.
+40a
     default:
         for (var _i = 0; _i < 17; _i++)
         {
             line[_i] = scrScript(-(_i + 14));
         }
+.

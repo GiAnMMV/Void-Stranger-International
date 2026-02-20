@@ -1,5 +1,4 @@
-// TARGET: LINENUMBER
-// 9
+8a
 offset_language = 0;
 if (any_settings_file_exists())
 {
@@ -20,10 +19,11 @@ while (current_language > (offset_language + 4))
 {
     offset_language++;
 }
-// TARGET: LINENUMBER_REPLACE
-// 57:60
+.
+37,39c
 language_count = array_length(global.script_array);
 for (var _i = 0; _i < language_count; _i++)
 {
     language_option[_i] = scrScript(-1, _i);
 }
+.

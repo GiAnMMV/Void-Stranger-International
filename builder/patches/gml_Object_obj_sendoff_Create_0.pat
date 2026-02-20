@@ -1,5 +1,4 @@
-// TARGET: LINENUMBER
-// 254
+253a
 if (global.language >= 2)
 {
     array_delete(credits_name, 127, 2);
@@ -16,3 +15,4 @@ if (global.language >= 2)
     array_insert(credits_name, 127 + _i, 0, "Giammaria Angeloni", 0, 0, 0, 0, 0, 0, 0, 0);
     credits_length += (_i + 8);
 }
+.

@@ -1,8 +1,7 @@
-// TARGET: LINENUMBER_REPLACE
-// 23
+23c
     case 0:
-// TARGET: LINENUMBER
-// 43
+.
+42a
     default:
         if (global.stranger == 0)
         {
@@ -16,3 +15,4 @@
         {
             vdlss_script[_i] = scrScript(-(_i + 37));
         }
+.

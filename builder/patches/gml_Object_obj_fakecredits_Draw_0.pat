@@ -1,9 +1,8 @@
-// TARGET: LINENUMBER
-// 87
+86a
         if (global.language < 2)
         {
-// TARGET: LINENUMBER
-// 92
+.
+89a
         }
         else
         {
@@ -17,3 +16,4 @@
             draw_text_colour(17, 104, "TRANSLATION TOOL", c_black, c_black, c_gray, c_gray, 1);
             draw_text_colour(17, 120, "GIAMMARIA ANGELONI", c_dkgray, c_dkgray, c_ltgray, c_ltgray, 1);
         }
+.

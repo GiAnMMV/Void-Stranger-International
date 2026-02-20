@@ -1,8 +1,8 @@
-// TARGET: LINENUMBER_REPLACE
-// 26
+26c
             case 0:
-// TARGET: LINENUMBER
-// 29
+.
+27a
+                break;
             default:
                 exit_bar_message = scrScript(-302);
-                break;
+.

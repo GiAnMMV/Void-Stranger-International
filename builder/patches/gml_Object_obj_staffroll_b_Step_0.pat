@@ -1,8 +1,8 @@
-// TARGET: LINENUMBER_REPLACE
-// 74
+74c
 if (global.language < 2 && counter == 6720)
-// TARGET: LINENUMBER
-// 81
+.
+79a
+}
 else if (counter == 6720)
 {
     staff_roll = 67;
@@ -16,4 +16,4 @@ else if (counter == 7020)
     title_toggle = 1;
     alarm[5] = 50;
     alarm[6] = 200;
-}
+.

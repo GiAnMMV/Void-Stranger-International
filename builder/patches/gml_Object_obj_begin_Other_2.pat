@@ -1,5 +1,4 @@
-// TARGET: LINENUMBER_REPLACE
-// 1
+1c
 var language_codes = [];
 var _code = file_find_first(working_directory + "Languages\\*", 16);
 while (_code != "")
@@ -29,3 +28,4 @@ for (var _i = 0; _i < array_length(language_codes); _i++)
         _arr[2][0] = language_codes[_i];    
     array_push(global.script_array, _arr);
 }
+.

@@ -1,8 +1,7 @@
-// TARGET: LINENUMBER_REPLACE
-// 15
+15c
     case 0:
-// TARGET: LINENUMBER
-// 27
+.
+26a
     default:
         if (global.stranger < 2)
         {
@@ -16,5 +15,5 @@
         }
         y_script[2] = scrScript(-108);
         break;
-// TARGET: LINENUMBER_REMOVE
-// 41
+.
+28d

@@ -1,5 +1,4 @@
-// TARGET: LINENUMBER_REPLACE
-// 37
+37c
                 var _language_selection = 0;
                 if (ini_key_exists("Save1", "language_code"))
                 {
@@ -17,17 +16,15 @@
                 {
                     _language_selection = ini_read_real("Save1", "language_selection", 0);
                 }
-
-// TARGET: LINENUMBER_REPLACE
-// 238
+.
+222c
                 var _lang_arr = [];
                 for (var _i = 0; _i < array_length(global.script_array); _i++)
                 {
                     array_push(_lang_arr, scrScript(-1, _i));
                 }
                 ds_grid_set(obj_menu.ds_menu_language, 4, 0, _lang_arr);
-
-// TARGET: LINENUMBER_REPLACE
-// 245
+.
+224c
                 ds_grid_set(obj_menu.ds_menu_language, 3, 0, global.language);
-
+.

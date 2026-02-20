@@ -1,9 +1,8 @@
-// TARGET: LINENUMBER
-// 97
+96a
     if (global.language < 2)
     {
-// TARGET: LINENUMBER
-// 101
+.
+98a
     }
     else
     {
@@ -17,3 +16,4 @@
         iy5 += string_height_ext(scrScript(-349), -1, 144);
         draw_text_ext_color(ix, iy5 + 176 + 32, "Giammaria Angeloni", -1, 144, c, c, c, c, 1);
     }
+.

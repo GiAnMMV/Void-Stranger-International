@@ -1,3 +1,3 @@
-// TARGET: LINENUMBER_REPLACE
-// 14
+14c
             global.language = arg0;
+.

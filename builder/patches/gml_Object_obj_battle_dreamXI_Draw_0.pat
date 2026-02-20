@@ -1,31 +1,25 @@
-// TARGET: LINENUMBER
-// 50
+49a
 var str="";
-// TARGET: LINENUMBER_REMOVE
-// 53:56
-// TARGET: LINENUMBER_REPLACE
-// 55
+.
+52,54d
+57c
         str = scrScript(-350) + scrScript(3442);
-// TARGET: LINENUMBER_REPLACE
-// 59
+.
+61c
         str = scrScript(-350) + scrScript(pl_rand_line);
-// TARGET: LINENUMBER_REMOVE
-// 61
-// TARGET: LINENUMBER_REMOVE
-// 64:67
-// TARGET: LINENUMBER_REPLACE
-// 66
+.
+63d
+67,69d
+72c
         str = scrScript(-352) + scrScript(3451);
-// TARGET: LINENUMBER_REPLACE
-// 70
+.
+76c
         str = scrScript(-352) + scrScript(3452);
-// TARGET: LINENUMBER_REPLACE
-// 74
+.
+80c
         str = scrScript(-352) + scrScript(e_rand_line);
-// TARGET: LINENUMBER_REMOVE
-// 76
-// TARGET: LINENUMBER
-// 77
+    }
+}
 if (str != "")
 {
     draw_set_halign(fa_center);
@@ -40,6 +34,4 @@ if (str != "")
         draw_sprite(spr_textbox_extra, 3, 0, 0);
         draw_text_ext_color(room_width * 0.5, 8, str, string_height(global.text_font), 220, c_white, c_white, c_white, c_white, 1);
         draw_sprite(spr_textbox_extra, 4, 0, 0);
-    }
-    draw_set_halign(fa_left);
-}
+.

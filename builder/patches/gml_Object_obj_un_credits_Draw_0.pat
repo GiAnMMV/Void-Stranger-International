@@ -1,9 +1,8 @@
-// TARGET: LINENUMBER_REPLACE
-// 83
+83c
         if (global.language < 2)
         {
-// TARGET: LINENUMBER
-// 86
+.
+84a
         }
         else
         {
@@ -15,3 +14,4 @@
             draw_text_color(208, 40 + (12 * ++_i), scrScript(-349), cg, cg, cg, cg, 1);
             draw_text_color(208, 40 + (12 * ++_i), "Giammaria Angeloni", cg, cg, cg, cg, 1);
         }
+.

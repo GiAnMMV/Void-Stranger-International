@@ -1,8 +1,7 @@
-// TARGET: LINENUMBER_REPLACE
-// 20
+20c
     case 0:
-// TARGET: LINENUMBER
-// 37
+.
+36a
     default:
         switch (global.stranger)
         {
@@ -19,18 +18,19 @@
                 line[1] = scrScript(-343);
                 break;
         }
-// TARGET: LINENUMBER_REPLACE
-// 85
+.
+69c
                     case 0:
-// TARGET: LINENUMBER
-// 88
+.
+71a
                     default:
                         line[2] = scrScript(-344);
-// TARGET: LINENUMBER_REPLACE
-// 102
+.
+84c
                 case 0:
-// TARGET: LINENUMBER
-// 106
+.
+87a
                 default:
                     line[3] = scrScript(-345);
                     line[4] = scrScript(-346);
+.

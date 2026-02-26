@@ -1,7 +1,7 @@
 129c
     case 0:
 .
-154a
+254a
     default:
         for (var _i = 0; _i < 40; _i++)
         {
@@ -11,4 +11,5 @@
         {
             y_script[_i] = scrScript(-((_i + 170) - 1));
         }
+
 .

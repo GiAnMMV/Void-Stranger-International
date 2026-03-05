@@ -17,6 +17,17 @@
                     _language_selection = ini_read_real("Save1", "language_selection", 0);
                 }
 .
+42c
+                var _Language_gstring;
+                if (ini_key_exists("Save1", "Language Setting New"))
+                {
+                    _Language_gstring = ini_read_string("Save1", "Language Settings New", "");
+                }
+                else
+                {
+                    _Language_gstring = ini_read_string("Save1", "Language Settings", "");
+                }
+.
 222c
                 var _lang_arr = [];
                 for (var _i = 0; _i < array_length(global.script_array); _i++)

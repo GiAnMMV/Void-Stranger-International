@@ -6,13 +6,9 @@ function txt_to_array(arg0, arg1)
     var _str = "";
     var _fname = working_directory + "Languages\\" + arg0 + "\\" + arg1 + ".txt";
     
-    if (file_find_first(_fname) == "")
-    {
-        file_find_close();
+    if (!file_exists(_fname))
         return _res;
-    }
     
-    file_find_close();
     var _buffer = buffer_load(_fname);
     var _size = buffer_get_size(_buffer);
     

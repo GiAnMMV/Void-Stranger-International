@@ -15,6 +15,6 @@
 63c
     var _lang_arr = [];
     for (var _i = 0; _i < array_length(global.script_array); _i++)
-        array_push(_lang_arr, scrScript(-1, _i));
+        array_push(_lang_arr, global.script_array[global.language][3][_i]);
     ds_grid_set(obj_menu.ds_menu_language, 4, 0, _lang_arr);
 .

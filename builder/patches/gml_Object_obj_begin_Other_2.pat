@@ -29,7 +29,14 @@ if (file_exists(working_directory + "Languages\\names.csv"))
 {
     var csv = load_csv(working_directory + "Languages\\names.csv");
     if (ds_grid_width(csv) == (ds_grid_height(csv) - 1))
+    {
+        ds_grid_destroy(language_names);
         language_names = csv;
+    }
+    else
+    {
+        ds_grid_destroy(csv);
+    }
 }
 for (var _i = 0; _i < array_length(global.script_array); _i++)
 {
@@ -60,4 +67,5 @@ for (var _i = 0; _i < array_length(global.script_array); _i++)
         }
     }
 }
+ds_grid_destroy(language_names);
 .

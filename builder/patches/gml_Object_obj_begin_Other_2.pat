@@ -48,22 +48,21 @@ for (var _i = 0; _i < array_length(global.script_array); _i++)
         else
             array_push(global.script_array[_i][3], global.script_array[_j][0]);
     }
-    for (var _x = 0; _x < ds_grid_width(language_names); _x++)
+    var _x = ds_grid_width(language_names);
+    while (--_x >= 0)
     {
         if (ds_grid_get(language_names, _x, 0) == global.script_array[_i][0])
-        {
-            for (var _y = 1; _y < ds_grid_height(language_names); _y++)
-            {
-                for (var _j = 0; _j < array_length(global.script_array); _j++)
-                {
-                    if (ds_grid_get(language_names, _y - 1, 0) == global.script_array[_j][0])
-                    {
-                        array_set(global.script_array[_i][3], _j, ds_grid_get(language_names, _x, _y));
-                        break;
-                    }
-                }
-            }
             break;
+    }
+    for (var _y = 1; _y < ds_grid_height(language_names); _y++)
+    {
+        for (var _j = 0; _j < array_length(global.script_array); _j++)
+        {
+            if (ds_grid_get(language_names, _y - 1, 0) == global.script_array[_j][0])
+            {
+                array_set(global.script_array[_i][3], _j, ds_grid_get(language_names, (_x >= 0) ? _x : (_y - 1), _y));
+                break;
+            }
         }
     }
 }

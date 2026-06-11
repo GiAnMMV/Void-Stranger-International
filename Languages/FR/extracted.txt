@@ -344,11 +344,11 @@ Il est temps de passer à autre chose.
 Pourquoi serais-tu revenue ici... ?
 [...]
 [Vous décidez de ramper à l'intérieur]
-ANGLAIS/FRANÇAIS
-Lotta Leppälä|Oskilla & cykaGPT
+ENGLISH/FRENCH
+Oskilla|cykaGPT
 OUTIL DE TRADUCTION
-G :
-P :
-B :
-A :
-L :
+G : 
+P : 
+B : 
+A : 
+L : 

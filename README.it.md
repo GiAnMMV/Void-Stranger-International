@@ -4,7 +4,7 @@
 __Traduzioni attualmente incluse:__
 * Italiano di GiAnMMV
 * Spagnolo di AnaximanDraws
-* Francese di Oskilla
+* Francese di Oskilla e cykaGPT
 
 ## Preparazione
 

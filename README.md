@@ -6,7 +6,7 @@
 
 __Currently included translations:__
 * Spanish by AnaximanDraws
-* French by Oskilla
+* French by Oskilla and cykaGPT
 * Italian by GiAnMMV
 
 ## Setting things up

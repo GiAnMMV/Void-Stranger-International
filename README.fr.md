@@ -2,7 +2,7 @@
 <img align="right" src="VSInternationalIcon.png">
 
 __Traductions actuellement incluses&nbsp;:__
-* Français par Oskilla
+* Français par Oskilla et cykaGPT
 * Espagnol par AnaximanDraws
 * Italien par GiAnMMV
 

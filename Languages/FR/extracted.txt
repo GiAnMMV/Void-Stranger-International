@@ -11,56 +11,56 @@ EFFETS LUMINEUX
 60 FPS
 30 FPS
 RÉDUIT
-Maman !
-Qu'y a-t-il, ma chérie ?
-Regarde !
-Oh, tu en as trouvé une !
+Maman !
+Qu'y a-t-il, ma chérie ?
+Regarde !
+Oh, tu en as trouvé une !
 Elle a même cinq pétales.
 Héhé...
-Tu n'as pas simplement arraché un pétale, petite chipie ?
-Pas du tout !
-Je l'ai trouvée toute seule !
+Tu n'as pas simplement arraché un pétale, petite chipie ?
+Pas du tout !
+Je l'ai trouvée toute seule !
 Je te taquine, c'est tout.
 Quand j'étais petite, nous cueillions ces fleurs en souvenir des défunts.
 Tu devrais l'offrir à mamie.
-D'accord !
-Qu'est-ce que tu insinues là ?
+D'accord !
+Qu'est-ce que tu insinues là ?
 Je ne suis pas encore si vieille...
 Oui, oui, mémé.
-Tiens, mamie !
+Tiens, mamie !
 Je me demande...
 Peut-être qu'il est simplement trop tard pour nous.
 Toute la lumière qui nous parvient n'est qu'un souvenir fané.
 Si nous voulons échapper à leur sort...
 Nous devons briller encore plus fort.
 Notre lumière doit devenir éternelle.
-Devenir éternelle ?
-Au diable tout ça !
+Devenir éternelle ?
+Au diable tout ça !
 Je suis heureuse parce que nous sommes ensemble, ici et maintenant.
 Même lorsque la dernière étoile s'éteindra...
 Ce souvenir subsistera sûrement.
 Parce que je t'aime.
 Qu'avons-nous là...
-N'ai-je pas déjà vu ce visage auparavant ?
+N'ai-je pas déjà vu ce visage auparavant ?
 Mais ces yeux...
 Il n'y a rien derrière eux.
-Ksi shi shi shi shi shi shi !
-Je comprends !
-Vous êtes l'une des poupées inutiles de cette ******corne, n'est-ce pas ?
+Ksi shi shi shi shi shi shi !
+Je comprends !
+Vous êtes l'une des poupées inutiles de cette ******corne, n'est-ce pas ?
 Je ne me souviens pas vous avoir vendu l'un de mes bons plans.
 Et malheureusement pour vous...
-Je ne fais pas de crédit !
+Je ne fais pas de crédit !
 [Un personnage étrange vous fixe du regard]
 [Vous entendez une voix]
-[Qui êtes-vous ?]
+[Qui êtes-vous ?]
 [Vous réfléchissez un instant, mais rien ne vous revient]
-[Pourquoi êtes-vous ici ?]
+[Pourquoi êtes-vous ici ?]
 [Je ne sais pas]
-[Ou l'avez-vous oublié ?]
+[Ou l'avez-vous oublié ?]
 [Depuis combien de temps voyagez-vous...]
 [Vous devez être épuisée]
 [Voulez-vous rester...]
-[Pour toujours ?]
+[Pour toujours ?]
 [...]
 [Vous semblez hésitante, en quelque sorte]
 [Parce que j'ai peur]
@@ -80,31 +80,31 @@ Je ne fais pas de crédit !
 Ça y est.
 J'abandonne.
 Comme c'est inhabituel de ta part.
-Tu ne trouvais pas mes énigmes enfantines au départ ?
+Tu ne trouvais pas mes énigmes enfantines au départ ?
 Donne-moi la réponse, c'est tout.
 Mon rythme de sommeil est complètement perturbé...
-Est-ce vraiment ce que tu désires ?
-Désir ?
+Est-ce vraiment ce que tu désires ?
+Désir ?
 Nous sommes toujours à la recherche de réponses.
 Mais imaginons que tu rencontres ****.
 Tu pourrais poser n'importe quelle question et obtenir une réponse définitive.
-Cela te satisferait-il ?
-Ou préfères-tu tirer tes propres conclusions ?
+Cela te satisferait-il ?
+Ou préfères-tu tirer tes propres conclusions ?
 Pff.
 Tu sais ce que je pense de ce genre de foutaises.
 Mais si ce **** existait vraiment...
 Je lui dirais d'aller se faire voir et de brûler en enfer.
-Voilà l'esprit !
+Voilà l'esprit !
 Je trouve aussi tes énigmes complètement bidon.
-Et si je te donnais la réponse autour d'un verre ?
+Et si je te donnais la réponse autour d'un verre ?
 C'est moi qui paie.
 C'est peut-être ta pire tentative de drague jusqu'à présent.
-Alors c'est oui ?
+Alors c'est oui ?
 ... Ne pousse pas ta chance, joli cœur.
 [Un être étrange fixe le néant d'un regard vide]
 [Il ne réagit pas à vos mouvements]
 [...]
-[Est-il défectueux ?]
+[Est-il défectueux ?]
 ...
 Add...
 Il y a longtemps...
@@ -128,14 +128,14 @@ Répétant leurs erreurs.
 Même dans la mort.
 Ils n'apprennent jamais.
 Ils n'abandonnent jamais.
-Pourquoi ?
-Qu'est-ce qui les motive ?
+Pourquoi ?
+Qu'est-ce qui les motive ?
 J'ai contemplé les étoiles.
 J'ai étudié leurs mouvements.
 Je les ai toutes nommées.
 Je n'ai trouvé aucun sens à leur existence.
 Qu'est-ce qui me...
-... nous manque ?
+... nous manque ?
 J'ai fini par comprendre.
 Même l'étoile la plus brillante...
 finit par s'éteindre.
@@ -155,9 +155,9 @@ Des êtres d'un désespoir sans fin.
 Du moins, c'est ce que je croyais.
 Un sentiment empreint de nostalgie...
 A commencé à grandir en moi.
-Était-ce de l'espoir ?
-De l'amour ?
-Ou autre chose ?
+Était-ce de l'espoir ?
+De l'amour ?
+Ou autre chose ?
 Add.
 Je ne suis pas sûre...
 Que ce soit la réponse...
@@ -165,14 +165,14 @@ Que ce soit la réponse...
 C'est tout ce qui me reste maintenant.
 Je ferai en sorte que tu la voies.
 Laisse-moi te montrer...
-La lumière de ton étoile du soir !
+La lumière de ton étoile du soir !
 ...
 Excusez-moi...
 Désolée, je vous ai prise pour quelqu'un d'autre.
-Avez-vous vu ma sœur ?
+Avez-vous vu ma sœur ?
 Elle a les cheveux courts et ses yeux sont de la même couleur que les vôtres.
 Elle peut être un peu timide, alors elle se cache probablement quelque part.
-Vous cherchez quelqu'un vous aussi ?
+Vous cherchez quelqu'un vous aussi ?
 Désolée, je n'ai rencontré personne d'autre ici à part vous.
 Cet endroit est assez étrange.
 J'ai presque l'impression d'avoir tourné en rond dans ces couloirs pendant des jours.
@@ -184,67 +184,67 @@ N'abandonnez pas.
 Oh.
 Bonjour.
 Je ne vous avais pas vue.
-(Une mortelle... ?)
+(Une mortelle... ?)
 Ne faites pas attention à moi, je ne fais que passer.
 Euh...
-Qu'y a-t-il ?
+Qu'y a-t-il ?
 Parlez, si vous avez quelque chose à dire.
 Je me demandais simplement si ces cornes étaient vraies...
 Elles ont l'air lourdes.
-(Pas VOUS aussi !)
+(Pas VOUS aussi !)
 
 (Je n'ai pas le temps pour ça...)
 Ah, c'est encore vous.
-La dame aux grosses cornes !
+La dame aux grosses cornes !
 (Uuuuurrrghhh...)
 La dernière fois, vous êtes partie si précipitamment que je n'ai pas eu le temps de vous demander...
-Mais savez-vous ce qu'est cet endroit ?
+Mais savez-vous ce qu'est cet endroit ?
 ...
 Un cauchemar.
 Je suis sûre que vous allez bientôt vous réveiller.
 (Mieux vaut en rester là.)
 Un rêve, hein...
-Est-ce que nous faisons le même rêve alors ?
+Est-ce que nous faisons le même rêve alors ?
 ... ... ...
 (Quel drôle d'individu...)
-Ça faisait longtemps !
+Ça faisait longtemps !
 (Toujours là...)
 Je ne me souviens pas avoir déjà fait un rêve aussi long.
 Le temps s'écoule vraiment différemment ici.
 Vous vous y habituerez.
 Je vois...
 ...
-Quoi ?
-Comment faites-vous pour dormir avec ces cornes ?
-(Comment faites-VOUS pour dormir avec une telle capacité d'attention ?!)
+Quoi ?
+Comment faites-vous pour dormir avec ces cornes ?
+(Comment faites-VOUS pour dormir avec une telle capacité d'attention ?!)
 (J'ai le sentiment désagréable que je vous reverrai plus tard...)
 Vous m'avez inquiétée pendant un instant.
 J'ai cru vous avoir ratée.
 (Moi aussi...)
 Je sais que ce n'est qu'un rêve, mais...
-Est-ce que vous cherchez quelque chose ?
+Est-ce que vous cherchez quelque chose ?
 ...
 Maintenant que vous me le demandez...
-Avez-vous vu quelqu'un d'autre dans les environs ?
+Avez-vous vu quelqu'un d'autre dans les environs ?
 Elle me ressemble un peu.
 Hmm...
-Est-ce qu'elle a des cornes aussi grandes que les vôtres ?
-... Est-ce que cela change votre réponse ?
+Est-ce qu'elle a des cornes aussi grosses que les vôtres ?
+... Est-ce que cela change votre réponse ?
 ... J'ai bien peur que non.
 (Quelle perte de temps.)
 Ah, nous nous rencontrons à nouveau.
 ...
 ...
 ...
-Est-ce que ça va ?
-MES CORNES NE SONT PAS SI GRANDES QUE ÇA !
-D-d'accord... ?
+Est-ce que ça va ?
+MES CORNES NE SONT PAS SI GROSSES QUE ÇA !
+D-d'accord... ?
 ...
 (Super...)
 (Je commence à perdre pied.)
 (Je ne supporte pas cette mortelle...)
 Salut.
-Des nouvelles de vos recherches ?
+Des nouvelles de vos recherches ?
 Non.
 Je pense que j'ai perdu le fil.
 Je devrais recommencer depuis le début.
@@ -259,45 +259,45 @@ Je cherche aussi quelqu'un.
 Ou du moins je le pensais.
 Je commence à me dire que je perds mon temps.
 Ce rêve...
-Prendra-t-il fin un jour ?
+Prendra-t-il fin un jour ?
 ...
 N'arrêtez jamais de chercher.
-Hein ?
+Hein ?
 N'arrêtez jamais de poser des questions.
 N'abandonnez jamais.
 Puis, avec le temps, les réponses suivront.
 Celle que vous cherchez...
-Elle doit être très importante pour vous, n'est-ce pas ?
+Elle doit être très importante pour vous, n'est-ce pas ?
 Elle doit sûrement vous attendre.
 Ne la décevez pas.
-... !
+... !
 Vous avez raison.
 Merci, grosse cor-
 ...
 Ah, je n'ai jamais demandé votre nom.
 ... Cif.
-Trop cool !
+Trop cool !
 Mon nom est...
 ...
 Étrange.
-Pourquoi je ne m'en souviens pas... ?
-(Vous en êtes déjà à ce stade... ?)
+Pourquoi je ne m'en souviens pas... ?
+(Vous en êtes déjà à ce stade... ?)
 J'ai oublié le mien il y a très longtemps.
 Cif n'est qu'un surnom.
 Oh, je ne savais pas que ce genre de choses pouvait arriver dans un rêve.
-Je suppose que je vais aussi devoir chercher mon nom à partir de maintenant !
-(Pourquoi est-ce que je me rappelle de ça ?)
+Je suppose que je vais aussi devoir chercher mon nom à partir de maintenant !
+(Pourquoi est-ce que je me rappelle de ça ?)
 (Pourquoi maintenant...)
 (...)
 (Accroche-toi, Bee.)
-Excusez-moi, je vous dérange ?
+Excusez-moi, je vous dérange ?
 
 Terminez autant de branes que possible dans le temps imparti.
 Vous gagnerez aussi de gros points bonus en battant des ennemis.
 Utilisez les idoles noires pour redémarrer rapidement ou revenir à l'écran titre depuis le menu principal.
 
-Il y aura du fanservice si vous vous débrouillez vraiment bien !
-Bonne chance !
+Il y aura du fanservice si vous vous débrouillez vraiment bien !
+Bonne chance !
 Ramasser plusieurs médailles d'affilée augmentera leur valeur.
 Souvenez-vous de ce désir profond
 Vous êtes donc finalement arrivé jusqu'ici.
@@ -315,10 +315,10 @@ Il est temps de passer à autre chose.
 Cela prendra peut-être du temps, mais j'espère vous y retrouver.
 Alors d'ici là...
 Souvenez-vous de ce désir profond.
-Qu'est-ce qui se passe avec ce truc ?
-Il est cassé ?
+Qu'est-ce qui se passe avec ce truc ?
+Il est cassé ?
 Je ne sais pas trop.
-Comment ça ?
+Comment ça ?
 Ces golems reflètent parfaitement leur cible.
 Pas seulement leurs mouvements, mais aussi leurs sentiments et leurs souvenirs.
 Du moins, c'était mon intention.
@@ -326,7 +326,7 @@ Je n'arrive toujours pas à la cheville d'Add, il reste donc évidemment quelque
 Mais je ne m'attendais pas à ça.
 Quelque chose persiste encore dans sa carcasse.
 Quelque chose dont elle refuse de se défaire.
-Comme quoi ?
+Comme quoi ?
 Comment dire...
 La force de la dévotion des manusya est vraiment terrifiante.
 Elle donne à leurs souhaits des ailes pour s'élever toujours plus haut, mais peut tout aussi vite les précipiter dans les profondeurs du désespoir.
@@ -336,19 +336,19 @@ Il y a peut-être encore de l'espoir pour nous...
 Viens.
 Il est temps de passer à autre chose.
 [Qu'est-ce que...]
-[Quelle est cette chaleur familière ?]
+[Quelle est cette chaleur familière ?]
 [...]
 [Tu ne devrais pas être ici]
 [Add...]
-[Pourquoi est-ce que tu nous as abandonnées ?]
-Pourquoi serais-tu revenue ici... ?
+[Pourquoi est-ce que tu nous as abandonnées ?]
+Pourquoi serais-tu revenue ici... ?
 [...]
 [Vous décidez de ramper à l'intérieur]
 ANGLAIS/FRANÇAIS
-Oskilla & cykaGPT
+Lotta Leppälä|Oskilla & cykaGPT
 OUTIL DE TRADUCTION
-G :
-P :
-B :
-A :
-L :
+G :
+P :
+B :
+A :
+L :

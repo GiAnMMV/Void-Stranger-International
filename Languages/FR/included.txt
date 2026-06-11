@@ -253,7 +253,7 @@ Dégage. -Bee
 
 [Un message grossièrement écrit brille à travers la niche]
 [On peut y lire :]
-[``MON ÉTAIT LÀ``]
+[``MON WAS HERE``]
 [...]
 
 [D'étranges gravures brillent à travers la niche]

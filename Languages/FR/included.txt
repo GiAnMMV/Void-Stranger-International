@@ -82,9 +82,9 @@ TESTEURS
 SOUVENIRS
 ´´Får ej övertäckas. Ei saa peittää.``
 FARDEAUX
-MÉMOIRE DU VOID
-ÉPÉE DU VOID
-AILES DU VOID
+VOID MEMORY
+VOID SWORD
+VOID WINGS
 Ce n'est pas possible...?
 DÉPLACEMENT
 APPUYER

@@ -38,7 +38,7 @@ RAPIDE
 PAUSE
 APPUYER SUR ACTION POUR CONFIRMER
 Voulez-vous changer les options avant de commencer votre voyage ?
-Êtes-vous prête ?
+Tout est prêt ?
 Bonne chance !
 
 N'abandonnez pas !

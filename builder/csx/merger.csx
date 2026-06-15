@@ -83,15 +83,15 @@ public void fontUpdate(UndertaleFont newFont)
 
                 if (head == 0)
                 {
-                    String namae = s[0].Replace("\"", "");
-                    newFont.DisplayName = Data.Strings.MakeString(namae);
-                    newFont.EmSize = UInt16.Parse(s[1]);
-                    newFont.Bold = Boolean.Parse(s[2]);
-                    newFont.Italic = Boolean.Parse(s[3]);
-                    newFont.Charset = Byte.Parse(s[4]);
-                    newFont.AntiAliasing = Byte.Parse(s[5]);
-                    newFont.ScaleX = UInt16.Parse(s[6]);
-                    newFont.ScaleY = UInt16.Parse(s[7]);
+                    newFont.DisplayName = Data.Strings.MakeString("");
+                    newFont.EmSize = UInt16.Parse(s[0]);
+                    newFont.Bold = Boolean.Parse(s[1]);
+                    newFont.Italic = Boolean.Parse(s[2]);
+                    newFont.Charset = Byte.Parse(s[3]);
+                    newFont.AntiAliasing = Byte.Parse(s[4]);
+                    newFont.ScaleX = UInt16.Parse(s[5]);
+                    newFont.ScaleY = UInt16.Parse(s[6]);
+                    newFont.Ascender = UInt32.Parse(s[7]);
                     head++;
                 }
 

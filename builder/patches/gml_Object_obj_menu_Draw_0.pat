@@ -1,5 +1,6 @@
-153c
-                            ilanguage = scrScript(-2, current_val);
+143,155c
+                    var ilanguage = global.script_array[current_val][4];
+                    draw_set_font(global.script_array[current_val][5][fnt_text_12]);
 .
 606a
 for (var i = 0; i < 9; i++)

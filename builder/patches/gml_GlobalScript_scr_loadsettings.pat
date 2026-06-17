@@ -28,6 +28,9 @@
                     _Language_gstring = ini_read_string("Save1", "Language Settings", "");
                 }
 .
+46c
+                change_language(_language_selection);
+.
 222c
                 var _lang_arr = [];
                 for (var _i = 0; _i < array_length(global.script_array); _i++)

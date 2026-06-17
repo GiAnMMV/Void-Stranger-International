@@ -1,11 +1,15 @@
 182c
             for (var i = offset_language; i < (offset_language + min(language_count, 4)); i += 1)
 .
+194a
+                draw_set_font(global.script_array[i][5][fnt_text_12]);
+.
 217c
                     draw_text_color(112 + itx, 40 + ity + (csize * (i - offset_language)), ilanguage, ib, ib, ib, ib, 1);
 .
 219c
                 draw_text_color(112, 40 + (csize * (i - offset_language)), ilanguage, l_c[i], l_c[i], l_c[i], l_c[i], 1);
+                draw_set_font(global.text_font);
             }
             if (offset_language > 0)
             {

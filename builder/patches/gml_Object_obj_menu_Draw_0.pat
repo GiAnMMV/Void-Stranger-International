@@ -5,7 +5,7 @@
 606a
 for (var i = 0; i < 9; i++)
 {
-    var ivn_char = string_char_at("vsI 3.0.4", i + 1);
+    var ivn_char = string_char_at("vsI 3.1.0", i + 1);
     var isep = 0;
     if (ivn_char == ".")
     {

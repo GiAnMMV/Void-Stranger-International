@@ -1,2 +1,2 @@
-global.text_font = global.script_array[arg0][5][fnt_text_12];
+global.text_font = global.script_array[global.language][5][fnt_text_12];
 .

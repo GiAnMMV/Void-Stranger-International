@@ -1,6 +1,10 @@
 143,155c
                     var ilanguage = global.script_array[current_val][4];
+                    load_fonts(current_val);
                     draw_set_font(global.script_array[current_val][5][fnt_text_12]);
+.
+158a
+                    draw_set_font(global.text_font);
 .
 606a
 for (var i = 0; i < 9; i++)

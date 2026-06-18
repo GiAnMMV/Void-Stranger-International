@@ -25,11 +25,6 @@ if (file_exists(working_directory + "Languages\\names.csv"))
         ds_grid_destroy(csv);
     }
 }
-var fonts = [];
-for (var _ifont = 0; font_exists(_ifont); _ifont++)
-{
-    array_push(fonts, font_get_name(_ifont));
-}
 global.script_array = [];
 for (var _i = 0; _i < array_length(language_codes); _i++)
 {
@@ -56,26 +51,14 @@ for (var _i = 0; _i < array_length(language_codes); _i++)
     {
         for (var _j = 0; _j < array_length(language_codes); _j++)
         {
-            if (ds_grid_get(language_names, _y, 0) == language_codes[_j])
+            if (ds_grid_get(language_names, _y, 0) == language_codes[_j] && _x)
             {
-                array_set(_arr[3], _j, ds_grid_get(language_names, (_x >= 1) ? _x : _y, _y));
+                array_set(_arr[3], _j, ds_grid_get(language_names, _x, _y));
                 break;
             }
         }
     }
     array_push(_arr, []);
-    for (var _ifont = 0; _ifont < array_length(fonts); _ifont++)
-    {
-        if (file_exists(working_directory + "Languages\\" + language_codes[_i] + "\\" + fonts[_ifont] + ".ttf"))
-        {
-            draw_set_font(_ifont);
-            array_push(_arr[5], font_add(working_directory + "Languages\\" + language_codes[_i] + "\\" + fonts[_ifont] + ".ttf", string_height(0) * 0.75, false, false, 32));
-        }
-        else
-        {
-            array_push(_arr[5], _ifont);
-        }
-    }
     array_push(global.script_array, _arr);
 }
 ds_grid_destroy(language_names);

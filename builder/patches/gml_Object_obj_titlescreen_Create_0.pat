@@ -14,5 +14,6 @@ language_count = array_length(global.script_array);
 for (var _i = 0; _i < language_count; _i++)
 {
     language_option[_i] = global.script_array[_i][3][_i];
+    load_fonts(_i);
 }
 .

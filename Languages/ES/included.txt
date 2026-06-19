@@ -152,7 +152,7 @@ No te puedes rendir ahora.
 [Quieres comer la fruta]
 [Te niegas]
 (Sabe a...)
-(¿******...?)
+(¿*******...?)
 (¿De qué estaba hablando esa pelusa eh?)
 (Qué sueño más raro.)
 
@@ -708,7 +708,7 @@ Me asustaste sin razón ahí eh.
 Estaba a punto de preguntarte lo mismo.
 Sinceramente, no puedo ni siquiera recordar cómo llegué aquí.
 ¿Qué estaba haciendo?
-La Hermana Ballbuster me va a despellejar viva si no llego rápido.
+La Hermana Tronchabolas me va a despellejar viva si no llego rápido.
 Estoy en un apuro.
 
 ¿No será que sabes alguna manera de salir?
@@ -733,7 +733,7 @@ Debo haberme caído y golpeado la cabeza o algo así.
 ...
 Oye.
 ¿Crees en ****?
-La hermana Ballbuster no se calla hablando de eso.
+La hermana Tronchabolas no se calla hablando de eso.
 Te debes arrepentir, solo así **** te salvará.
 A pesar de cómo me veo, nunca creí en eso.
 Seguro, he cometido algunos errores en mi vida...
@@ -1300,7 +1300,7 @@ SUEÑO I
 ¡Lady Gray!
 ¡Gracias al cielo has llegado!
 La princesa... ¡se ha salido de control!
-¡Por favor, has algo!
+¡Por favor, haz algo!
 ¡Eres nuestra única esperanza!
 ¡Por favor, de prisa!
 
@@ -3228,7 +3228,7 @@ Hmm, Supongo que así es como los mortales nos llaman ahora eh...
 Si bien no me gusta que nos llamen así...
 Explicártelo en detalle sería demasiado complicado para tí.
 Demonios está bien.
-¡Un demonio me importa cómo se llamen!
+¡Un demonio es lo que me importa cómo se llamen!
 ¡Sólo deja a Su Alteza fuera de esto, Johann!
 Mi cuota todavía se queda corta ¿no es así?
 ... Eso es correcto.
@@ -6832,7 +6832,7 @@ Y ahora, ella finalmente ha despertado...
 NO.
 NO ME DIGAS.
 ¡¿QUE ESTE MONO DESNUDO ES DIGNO?!
-¡NO LO ACETARÉ!
+¡NO LO ACEPTARÉ!
 ¡VOY A DESTROZAR TU MERA EXISTENCIA!
 ¡TE BORRARÉ DE LA HISTORIA!
 ¡PUES SOY EL NUEVO GOBERNANTE DE LOS CIELOS!

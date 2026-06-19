@@ -68,4 +68,9 @@ for (var _i = 0; _i < ds_grid_height(_grid); _i++)
     array_push(global.script_array[0][1], ds_grid_get(_grid, 0, _i));
     array_push(global.script_array[1][1], ds_grid_get(_grid, 1, _i));
 }
+global.fonts = [];
+for (var _i = 0; font_exists(_i); _i++)
+{
+    array_push(global.fonts, font_get_name(_i));
+}
 .

@@ -30,8 +30,8 @@ for (var _i = 0; _i < array_length(language_codes); _i++)
 {
     var _arr = [];
     array_push(_arr, language_codes[_i]);
-    array_push(_arr, []);
-    array_push(_arr, []);
+    array_push(_arr, undefined);
+    array_push(_arr, undefined);
     array_push(_arr, []);
     for (var _j = 0; _j < array_length(language_codes); _j++)
     {
@@ -62,6 +62,10 @@ for (var _i = 0; _i < array_length(language_codes); _i++)
     array_push(global.script_array, _arr);
 }
 ds_grid_destroy(language_names);
+array_set(global.script_array[0], 1, []);
+array_set(global.script_array[0], 2, []);
+array_set(global.script_array[1], 1, []);
+array_set(global.script_array[1], 2, []);
 var _grid = csv_to_grid("voidstranger_data.csv", true, "|", "~");
 for (var _i = 0; _i < ds_grid_height(_grid); _i++)
 {

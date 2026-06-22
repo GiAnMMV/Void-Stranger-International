@@ -58,7 +58,8 @@ for (var _i = 0; _i < array_length(language_codes); _i++)
             }
         }
     }
-    array_push(_arr, []);
+    array_push(_arr, undefined);
+    array_push(_arr, undefined);
     array_push(global.script_array, _arr);
 }
 ds_grid_destroy(language_names);

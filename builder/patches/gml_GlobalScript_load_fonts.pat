@@ -17,15 +17,14 @@ function load_fonts(arg0)
                 if (global.fonts[_ifont] == _font)
                 {
                     draw_set_font(_ifont);
-                    _arr[_ifont] = font_add(working_directory + "Languages\\" + global.script_array[arg0][0] + "\\" + _font + ".ttf", string_height(0) * 0.75, false, false, 32);
+                    _arr[_ifont] = font_add(working_directory + "Languages\\" + global.script_array[arg0][0] + "\\" + _font + ".ttf", string_height(0) * 0.75, false, false, 32, 128);
                     break;
                 }
             }
             _font = file_find_next();
         }
         file_find_close();
-        global.script_array[arg0][5];
+        global.script_array[arg0][5] = _arr;
     }
 }
-
 .

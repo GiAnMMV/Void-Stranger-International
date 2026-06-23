@@ -1,3 +1,7 @@
+187a
+    counter = round(counter / global.text_speed) * global.text_speed;
+    counter = min(counter, substr_length);
+.
 216,226c
     var _i = ds_map_find_first(global.script_array[global.language][6][1]);
     while (!is_undefined(_i))

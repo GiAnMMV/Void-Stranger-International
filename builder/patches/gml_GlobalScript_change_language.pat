@@ -1,8 +1,19 @@
 3,17c
     if (is_undefined(global.script_array[arg0][1]))
     {
-        array_set(global.script_array[arg0], 1, global.txt_to_array(global.script_array[arg0][0], "included"));
-        array_set(global.script_array[arg0], 2, global.txt_to_array(global.script_array[arg0][0], "extracted"));
+        if (arg0 >= 2)
+        {
+            array_set(global.script_array[arg0], 1, global.txt_to_array(global.script_array[arg0][0], "included"));
+            array_set(global.script_array[arg0], 2, global.txt_to_array(global.script_array[arg0][0], "extracted"));
+        }
+        else
+        {
+            var _grid = csv_to_grid("voidstranger_data.csv");
+            array_set(global.script_array[0], 1, _grid[0]);
+            array_set(global.script_array[0], 2, []);
+            array_set(global.script_array[1], 1, _grid[1]);
+            array_set(global.script_array[1], 2, []);
+        }
     }
     if (is_undefined(global.script_array[arg0][6]))
     {

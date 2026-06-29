@@ -63,16 +63,6 @@ for (var _i = 0; _i < array_length(language_codes); _i++)
     array_push(global.script_array, _arr);
 }
 ds_grid_destroy(language_names);
-array_set(global.script_array[0], 1, []);
-array_set(global.script_array[0], 2, []);
-array_set(global.script_array[1], 1, []);
-array_set(global.script_array[1], 2, []);
-var _grid = csv_to_grid("voidstranger_data.csv", true, "|", "~");
-for (var _i = 0; _i < ds_grid_height(_grid); _i++)
-{
-    array_push(global.script_array[0][1], ds_grid_get(_grid, 0, _i));
-    array_push(global.script_array[1][1], ds_grid_get(_grid, 1, _i));
-}
 global.fonts = [];
 for (var _i = 0; font_exists(_i); _i++)
 {

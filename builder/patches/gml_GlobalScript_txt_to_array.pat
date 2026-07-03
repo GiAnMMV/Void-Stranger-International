@@ -10,7 +10,7 @@ function txt_to_array(arg0, arg1)
         var _b0 = buffer_peek(_buffer, 0, buffer_u8);
         var _b1 = buffer_peek(_buffer, 1, buffer_u8);
         var _b2 = buffer_peek(_buffer, 2, buffer_u8);
-        if (_b0 == 239 && _b1 == 187 && _b2 == 191)
+        if (_b0 == $EF && _b1 == $BB && _b2 == $BF)
             buffer_seek(_buffer, buffer_seek_start, 3);
     }
     var _res = buffer_read(_buffer, buffer_text);

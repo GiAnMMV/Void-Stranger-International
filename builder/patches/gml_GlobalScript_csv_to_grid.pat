@@ -1,4 +1,5 @@
 1,439c
+function csv_to_grid(arg0)
 {
     if (!file_exists(arg0))
         return [[], []];

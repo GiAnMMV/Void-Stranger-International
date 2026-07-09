@@ -1,3 +1,6 @@
+10c
+draw_set_font(global.script_array[global.language][5][fnt_text_12]);
+.
 52a
 var str="";
 .

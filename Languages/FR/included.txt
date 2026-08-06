@@ -1145,7 +1145,7 @@ A mis fin à ses jours...
 ...
 
 Détruisez ce qui reste des traîtres...
-Revenez à zéro, zéro, zéro...
+Revenez en zéro, zéro, zéro...
 Vous trouverez alors le trésor ultime du Seigneur Add, celui qu'elle a caché même à ses alliées...
 La clé qui grave la marque de DIS...
 
@@ -1379,7 +1379,7 @@ Je parie que tu as triché !
 Allons, Votre Altesse.
 Une telle amertume ne sied pas à une dame de votre rang.
 ...
-Très bien, vous pouvez avoir celui-ci.
+Soit, je te la laisse.
 Quelle générosité de votre part, Votre Altesse.
 Va te faire voir.
 ...
@@ -1440,7 +1440,7 @@ Essayons de mettre de l'ordre dans vos cheveux.
 Mais après ça, on aura droit à une revanche !
 C'est ce qu'on verra.
 Vous avez vraiment besoin d'un bain.
-Surveillez votre langage !
+Surveille ton langage !
 
 ... Pathétique.
 Tu te bats comme une vache.
@@ -1668,7 +1668,7 @@ Je suis tellement contente d'avoir décidé de ne pas vous manger.
 C'est une blague.
 Votre espèce a un goût horrible.
 
-Vous devriez probablement continuer à avancer si vous souhaitez trouver ce que vous cherchez.
+Vous devriez probablement continuer à avancer si vous souhaitez trouver celle que vous cherchez.
 Même si ce royaume est en proie au chaos depuis lors, ne baissez pas votre garde.
 Les Seigneurs du Void sont particuliers...
 Mais toutes les âmes perdues ne sont pas aussi gentilles que vous.
@@ -1780,7 +1780,7 @@ Je ne veux pas mourir.
 
 
 
-Qu'est-ce que c'est que ça ?!
+Qu'est-ce que vous faites ?!
 Arrêtez ça !
 
 
@@ -3548,9 +3548,9 @@ Votre dévotion continue de m’impressionner.
 Vous êtes donc autorisée à emmener une âme avec vous.
 À une condition.
 Vous ne pourrez jamais revenir ici.
-Acceptez-vous ces conditions ?
+Acceptez-vous ces conditions, est ce que vous voulez ?
 
-Je les accepte.
+Oui, je le veux. 
 
 Très bien.
 
@@ -5538,7 +5538,7 @@ Bienvenue au 21e siècle, mémé.
 Pourquoi tu ne te ferais pas couper les cheveux, toi aussi ?
 Qui sait, ça t’aiderait peut-être à décoincer un peu ces jambes serrées et à te détendre.
 
-… !
+... !
 Je ne tolérerai pas ce genre de langage dans cette maison.
 Comment as-tu pu devenir une femme aussi hautaine...
 T’es pire que ta mère !
@@ -6189,7 +6189,7 @@ C'est certainement Mon.
 ...
 Elle t’a parlé ?
 Non, mais elle marmonnait quelque chose.
-Il disait qu'il se dirigeait vers le Septième Cercle.
+Elle disait qu'elle se dirigeait vers le Septième Cercle.
 Le territoire de Lev...
 Tu sembles inquiète.
 Mon devrait être morte.
@@ -6425,7 +6425,7 @@ Une lèche-bottes comme toi n’aurait jamais pu concevoir quelque chose d’aus
 ...
 Ksi shi...
 KSI SHI SHI SHI SHI SHI SHI SHI SHI SHI !
-UN SIMPLE LAPSUS NE TE MÈNERA NULLE PART, BÉ*****.
+UN SIMPLE LAPSUS NE TE MÈNERA NULLE PART, *****CORNUE.
 
 MES YEUX...
 MES YEUX BRILLANTS...

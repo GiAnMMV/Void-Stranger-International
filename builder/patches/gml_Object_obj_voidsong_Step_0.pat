@@ -1,4 +1,4 @@
-1a
+0a
 if (global.language >= 2)
     lyrics = scrScript(-355 - l_count);
 else

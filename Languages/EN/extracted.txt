@@ -1,5 +1,5 @@
-ENGLISH
-SELECT ENGLISH
+Lotta Leppälä|Muste Creative
+LOTTA LEPPÄLÄ|MUSTE CREATIVE
 SCALING
 INTEGER
 FIT
@@ -345,7 +345,7 @@ Why would you return here...?
 [...]
 [You decide to crawl inside]
 ENGLISH/FINNISH
-Lotta Leppälä|Muste Creative
+SELECT ENGLISH
 TRANSLATION TOOL
 G: 
 P: 

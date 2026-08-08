@@ -1,5 +1,5 @@
-SUOMI
-VALITSE SUOMI
+Lotta Leppälä|Muste Creative
+LOTTA LEPPÄLÄ|MUSTE CREATIVE
 SKAALAUS
 TARKKA
 SOVITETTU
@@ -345,7 +345,7 @@ Miksi tulit takaisin...?
 [...]
 [Päätät ryömiä sisään]
 ENGLISH/FINNISH
-Lotta Leppälä|Muste Creative
+VALITSE SUOMI
 KÄÄNNÖSTYÖKALU
 G: 
 P: 

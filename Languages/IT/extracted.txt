@@ -1,5 +1,5 @@
-ITALIANO
-SELEZIONA ITALIANO
+Giammaria Angeloni
+GIAMMARIA ANGELONI
 SCALA
 PRECISO
 ADATTA
@@ -345,7 +345,7 @@ Perché sei di nuovo qui...?
 [...]
 [Decidi di strisciare dentro]
 ENGLISH/ITALIAN
-Giammaria Angeloni
+SELEZIONA ITALIANO
 STRUMENTO DI TRADUZIONE
 G: 
 P: 

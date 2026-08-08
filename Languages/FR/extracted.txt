@@ -1,5 +1,5 @@
-FRANÇAIS
-SÉLECTIONNER FRANÇAIS
+Oskilla|cykaGPT
+OSKILLA|CYKAGPT
 MISE À L'ÉCHELLE
 ENTIER
 AJUSTER
@@ -345,7 +345,7 @@ Pourquoi serais-tu revenue ici... ?
 [...]
 [Vous décidez de ramper à l'intérieur]
 ENGLISH/FRENCH
-Oskilla|cykaGPT
+SÉLECTIONNER FRANÇAIS
 OUTIL DE TRADUCTION
 G : 
 P : 

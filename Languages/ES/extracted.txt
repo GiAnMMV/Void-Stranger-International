@@ -1,5 +1,5 @@
-ESPAÑOL
-SELECCIONAR ESPAÑOL
+AnaximanDraws
+ANAXIMANDRAWS
 ESCALADO
 ENTERO
 ENCAJAR
@@ -345,7 +345,7 @@ Es hora de continuar.
 [...]
 [Decides arrastrarte dentro]
 ENGLISH/SPANISH
-AnaximanDraws
+SELECCIONAR ESPAÑOL
 HERRAMIENTA DE TRADUCCIÓN
 G: 
 P: 
